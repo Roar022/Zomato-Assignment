@@ -80,6 +80,7 @@ Main Function
 - Save a summary of all restaurant data into a master CSV file (`restaurants_info.csv`).
 ```
 ### 5. Flowchart
+![Scraper](./IMAGES/Scrapper.drawio.png)
 ### 6. Tools and Technologies
 
 1. **Selenium**: Used for web automation and scraping dynamic content from restaurant websites by simulating browser actions.
@@ -206,7 +207,7 @@ Semantic search improves query accuracy by comparing the meaning, not just keywo
    - Return the relevant documents and metadata as the response
 ```
 ### 5. Flowchart
-
+![Knowledge Base](./IMAGES/Knowledge.drawio.png)
 
 ## RAG Workflow Documentation
 
@@ -330,6 +331,7 @@ function handle_user_query(user_query):
 ```
 
 ### 4. Flowchart
+![RAG](./IMAGES/RAG.drawio.png)
 
 ### 5. Conclusion
 
