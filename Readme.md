@@ -397,7 +397,7 @@ The Foodie Bot’s user interface is built with Streamlit, providing a simple ch
 - Type your food-related questions into the chat box and enjoy!
 
 ## Results
-![Res1](./result/res1.png)
-![Res2](./result/res2.png)
-![Res3](./result/res3.png)
-![Res4](./result/res4.png)
+![Res1](./result/Res1.png)
+![Res2](./result/Res2.png)
+![Res3](./result/Res3.png)
+![Res4](./result/Res4.png)
