@@ -1,0 +1,4400 @@
+[
+  {
+    "id": 1,
+    "name": "Bikkgane Biryani",
+    "location": "Shop 0110, Ground Floor, DLF My Pad, Vibhuti Khand, Nagar Nigam Food Safety Zone-14, Gomti Nagar, Lucknow",
+    "rating": 4.4,
+    "operating_hours": {
+      "mon-fri": "Opens at 11:30am",
+      "sat-sun": "Opens at 11:30am"
+    },
+    "contact": {
+      "phone": "+919120130648"
+    },
+    "menu": [
+      {
+        "id": 101,
+        "name": "Party For 2 To 3",
+        "description": "2 Biryanis (500ml Bowls) + 1 starter (full portion) + 2 Raita (100ml) + 2 Gulab Jamun + 1 Coke (475ml)",
+        "price": 899,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.2,
+        "available": true
+      },
+      {
+        "id": 102,
+        "name": "Party For 4 To 6",
+        "description": "4 Biryanis (500ml Bowls) + 2 starter (full portion) + 2 Salan (100ml) + 1 Raita (300ml) + 4 Gulab Jamun + 2 Coke (475ml)",
+        "price": 1699,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 103,
+        "name": "Party For 8 To 10",
+        "description": "4 Biryanis (750ml ) + 4 starter (full portion) + Salan (300ml) + 2 Raita (300ml) + 8 Gulab Jamun + 4 Coke (475ml)",
+        "price": 3299,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 104,
+        "name": "Handi Party For 4 To 6",
+        "description": "2 Handi Biryani (1 kg) + 2 starter (full portion) + 2 Salan (100ml) + 1 Raita (300ml) + 4 Gulab Jamun + 2 Coke (475ml)",
+        "price": 2499,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.2,
+        "available": true
+      },
+      {
+        "id": 105,
+        "name": "Starter Pack For 2",
+        "description": "1 starter (full portion) + 1 Onion Salad (100ml) + 1 Coke (475ml)",
+        "price": 399,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.0,
+        "available": true
+      },
+      {
+        "id": 106,
+        "name": "Starter Pack For 4",
+        "description": "2 starters (full portion) + 2 Onion Salad (100ml) + 2 Coke (475ml)",
+        "price": 749,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 107,
+        "name": "Starter Pack For 8",
+        "description": "4 starters (full portion) + 1 Onion Salad (300ml) + 4 Coke (475ml)",
+        "price": 1399,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.2,
+        "available": true
+      },
+      {
+        "id": 108,
+        "name": "Starter Pack For 16",
+        "description": "8 starters (full portion) + 2 Onion Salad (300ml) + 8 Coke (475ml)",
+        "price": 2699,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.6,
+        "available": true
+      },
+      {
+        "id": 109,
+        "name": "Veg Paratha Combo (serves 1)",
+        "description": "2 parota's + Paneer butter masala + Gulab Jamun (1pcs)",
+        "price": 249,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 110,
+        "name": "Chicken Paratha Combo (serves 1)",
+        "description": "2 parota's + Andhra Chicken Curry + Gulab Jamun (1pcs)",
+        "price": 279,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 111,
+        "name": "Veg Biryani Combo (serves 1)",
+        "description": "Veg Biryani (500ml)+ Paneer 65 (150ml)+ Gulab Jamun (1pcs)",
+        "price": 299,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.8,
+        "available": true
+      },
+      {
+        "id": 112,
+        "name": "Paneer Biryani Combo (serves 1)",
+        "description": "Paneer Biryani (500ml)+ Paneer 65 (150ml)+ Gulab Jamun (1pcs)",
+        "price": 319,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.2,
+        "available": true
+      },
+      {
+        "id": 113,
+        "name": "Pepper Paneer Biryani Combo (serves 1)",
+        "description": "Pepper Paneer Biryani (500ml) + Paneer 65 (150ml)+ Gulab Jamun (1pcs)",
+        "price": 319,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.8,
+        "available": true
+      },
+      {
+        "id": 114,
+        "name": "Chicken Biryani Combo (serves 1)",
+        "description": "Chicken Biryani(500ml) + Chicken 65 (150ml)+ Gulab Jamun (1pcs)",
+        "price": 339,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.5,
+        "available": true
+      },
+      {
+        "id": 115,
+        "name": "Pepper Chicken Biryani Combo (serves 1)",
+        "description": "Pepper Chicken Biryani (500ml)+ Chicken 65 (150ml)+ Gulab Jamun (1pcs)",
+        "price": 339,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 116,
+        "name": "Chicken 65 Biryani Combo (serves 1)",
+        "description": "Chicken 65 Biryani (500ml) + Andhra Chicken Fry(150ml) + Gulab Jamun (1pcs)",
+        "price": 339,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.9,
+        "available": true
+      },
+      {
+        "id": 117,
+        "name": "Veg Biryani Family Combo (serves 4)",
+        "description": "Veg Biryani (2*750ml) + Paneer 65 (full) + 4 Gulab Jamun (1pcs)",
+        "price": 809,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 5.0,
+        "available": true
+      },
+      {
+        "id": 118,
+        "name": "Paneer Biryani Family Combo (serves 4)",
+        "description": "Paneer Biryani (2*750ml) + Paneer 65 (full) + 4 Gulab Jamun (1pcs)",
+        "price": 859,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 119,
+        "name": "Pepper Paneer Biryani Family Combo (serves 4)",
+        "description": "Pepper Paneer Biryani (2*750ml)+ Paneer 65 (full)+ 4 Gulab Jamun (1pcs)",
+        "price": 859,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.7,
+        "available": true
+      },
+      {
+        "id": 120,
+        "name": "Chicken Dum Biryani Family Combo (serves 4)",
+        "description": "Chicken Biryani (2*750ml)+ Chicken 65 (full) + 4 Gulab Jamun (1pcs)",
+        "price": 859,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.1,
+        "available": true
+      },
+      {
+        "id": 121,
+        "name": "Pepper Chicken Biryani Family Combo (serves 4)",
+        "description": "Pepper Chicken Biryani (2*750ml) + Chicken 65 (full)+ 4 Gulab Jamun (1pcs)",
+        "price": 859,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.1,
+        "available": true
+      },
+      {
+        "id": 122,
+        "name": "Chicken 65 Biryani Family Combo (serves 4)",
+        "description": "Chicken 65 Biryani (2*750ml)+ Andhra Chicken Fry (Full) + 4 Gulab Jamun (1pcs)",
+        "price": 859,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 123,
+        "name": "Veg Dum Biryani Bowl - 500ml",
+        "description": "[Serves 1 value bowl with Raita] A handpicked selection of garden fresh vegetables, layered with aromatic saffron rice; delicately flavoured with herbs and blended spices.",
+        "price": 219,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 124,
+        "name": "Kathal Dum Biryani Bowl - 500ml",
+        "description": "[Serves 1 value bowl with Raita] Savor the exquisite Kathal Dum Biryani, featuring tender jackfruit marinated in aromatic spices, layered with fragrant basmati rice, and slow-cooked to perfection. A delightful vegetarian masterpiece",
+        "price": 239,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 125,
+        "name": "Aloo 65 Biryani Bowl - 500ml",
+        "description": "[Serves 1 value bowl with Raita] Boiled potato marinated with magic of Indian spices and herbs, slowly cooked Between the aromatic long grained Basmati rice.",
+        "price": 239,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 126,
+        "name": "Pepper Paneer Biryani Bowl - 500ml",
+        "description": "[Serves 1 value bowl with Raita] Classic fusion of our lipsmacking fresh grounded Pepper Paneer and Biryani Rice.",
+        "price": 269,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.2,
+        "available": true
+      },
+      {
+        "id": 127,
+        "name": "Pepper Mushroom Biryani Bowl - 500ml",
+        "description": "[Serves 1 value bowl with Raita] Classic fusion of our lipsmacking Pepper Mushroom and famous Hyderabadi Biryani Rice.",
+        "price": 269,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 128,
+        "name": "Paneer 65 Biryani Bowl - 500ml",
+        "description": "[Serves 1 value bowl with Raita]Fresh cottage cheese marinated with all the south spices and ground masala, tossed in curry leafs and topped on Biryani rice",
+        "price": 269,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 129,
+        "name": "Egg Biryani Bowl - 500ml",
+        "description": "[Serves 1 value bowl with Raita] Delicately spiced and boiled eggs immersed in wholesome aromatic long grained rice.",
+        "price": 199,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.7,
+        "available": true
+      },
+      {
+        "id": 130,
+        "name": "Chicken Dum Biryani Bowl - 500ml",
+        "description": "[Serves 1 value bowl with Raita and Half Egg] signature Chicken Biryani with tastefully marinated and succulent pieces of chicken cooked in a rich mix of long grain rice , delicately flavoured with authentic herbs, spices and saffron.",
+        "price": 269,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.3,
+        "available": true
+      },
+      {
+        "id": 131,
+        "name": "Chicken 65 Biryani Bowl - 500ml",
+        "description": "[Serves 1 value bowl with Raita and Half Egg]Chicken cubes marinated with all the south spices and ground masala, tossed in curry leafs and topped on Biryani rice",
+        "price": 269,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 132,
+        "name": "Special Chicken Boneless Biryani Bowl - 500ml",
+        "description": "[Serves 1 value bowl with Raita and Half Egg] Coated Chicken Cubes tossed in inhouse spices serves with Biryani Rice",
+        "price": 269,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 133,
+        "name": "Pepper Chicken Biryani Bowl - 500ml",
+        "description": "[Serves 1 value bowl with Raita and half Egg] Classic fusion of our lipsmacking fresh grounded Pepper Chicken and Biryani Rice.",
+        "price": 269,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 134,
+        "name": "Andhra Chicken Biryani Bowl - 500ml",
+        "description": "[Serves 1 value bowl with Raita and half Egg] A layered, aromatic, culinary masterpiece created with slow-cooked on the bone chicken, basmati rice, saffron, warm spices and fresh mint.",
+        "price": 269,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 135,
+        "name": "Andhra Chicken Fry Piece Biryani Bowl - 500ml",
+        "description": "[Serves 1 value bowl with Raita and half Egg] A rich variant of Andhra Biryani first served in Vijayawada, this flavoursome dish contains chunks of chicken which are first fried before being added to aromatic basmati rice.",
+        "price": 269,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 136,
+        "name": "Lucknowi Chicken Biryani Bowl - 500ml",
+        "description": "[Serves 1 value bowl with Raita and half Egg] Lucknowi style chicken Biryani with a long grain rice",
+        "price": 239,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 137,
+        "name": "Kolkata Chicken Biryani Bowl - 500ml",
+        "description": "[Serves 1 value bowl with Raita and half Egg] Kolkata style chicken Biryani with a long grain rice",
+        "price": 269,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.4,
+        "available": true
+      },
+      {
+        "id": 138,
+        "name": "Veg Biryani Sampler 2 Bowls",
+        "description": "[Sampler bowl 300ml each serves with raita] Veg Dum Hyderabadi Biryani and Paneer 65 Hyderabadi Biryani sampler",
+        "price": 309,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.1,
+        "available": true
+      },
+      {
+        "id": 139,
+        "name": "Bikkgane's Top Pick Chicken Biryani Sampler 2 Bowls",
+        "description": "[Sampler bowl 300ml each serves with raita] Chicken Dum Hyderabadi Biryani and Chicken 65 Hyderabadi Biryani sampler",
+        "price": 359,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 140,
+        "name": "India's Favourite Chicken Biryani Sampler 3 Bowls",
+        "description": "[Sampler bowl 300ml each serves with raita] Chicken 65 Hyderabadi Biryani , Lucknowi Chicken Biryani and Kolkata Chicken Biryani sampler",
+        "price": 389,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 141,
+        "name": "Veg Dum Hyderabadi Biryani",
+        "description": "[Serves with Raita] A handpicked selection of garden fresh vegetables, layered with aromatic saffron rice; delicately flavoured with herbs and blended spices.",
+        "price": 219,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.9,
+        "available": true
+      },
+      {
+        "id": 142,
+        "name": "Kathal Dum Hyderabadi Biryani",
+        "description": "[Serves with Raita] Savor the exquisite Kathal Dum Biryani, featuring tender jackfruit marinated in aromatic spices, layered with fragrant basmati rice, and slow-cooked to perfection. A delightful vegetarian masterpiece",
+        "price": 239,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 143,
+        "name": "Aloo 65 Hyderabadi Biryani",
+        "description": "[Serves with Raita] Boiled potato marinated with magic of Indian spices and herbs, slowly cooked Between the aromatic long grained Basmati rice.",
+        "price": 239,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.0,
+        "available": true
+      },
+      {
+        "id": 144,
+        "name": "Special Paneer Hyderabadi Biryani",
+        "description": "[Serves with Raita] Fragrant long grain Basmati rice steamed with delicately spiced cottage cheese and garnished with an assortment of herbs and spices.",
+        "price": 269,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 145,
+        "name": "Pepper Paneer Hyderabadi Biryani",
+        "description": "[Serves with Raita] Classic fusion of our lipsmacking Pepper Panner and famous Hyderabadi Biryani Rice.",
+        "price": 269,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.8,
+        "available": true
+      },
+      {
+        "id": 146,
+        "name": "Pepper Mushroom Hyderabadi Biryani",
+        "description": "[Serves with Raita] Classic fusion of our lipsmacking Pepper Mushroom and famous Hyderabadi Biryani Rice.",
+        "price": 269,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 147,
+        "name": "Paneer 65 Hyderabadi Biryani",
+        "description": "[Serves with Raita] Fresh cottage cheese marinated with all the spices and ground masala, layered, slow cooked with Long grain Basmati rice.",
+        "price": 269,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.2,
+        "available": true
+      },
+      {
+        "id": 148,
+        "name": "Egg Hyderabadi Biryani",
+        "description": "[Serves with Raita] Delicately spiced and boiled eggs immersed in wholesome aromatic long grained rice.",
+        "price": 239,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.8,
+        "available": true
+      },
+      {
+        "id": 149,
+        "name": "Chicken Dum Hyderabadi Biryani",
+        "description": "[Serves with Raita] signature Chicken Biryani with tastefully marinated and succulent pieces of chicken cooked in a rich mix of long grain rice , delicately flavoured with authentic herbs, spices and saffron.",
+        "price": 269,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 150,
+        "name": "Extra Masala Chicken Dum Hyderabadi Biryani",
+        "description": "[Serves with Extra masala and Raita] signature Chicken Biryani with tastefully marinated and succulent pieces of chicken cooked in a rich mix of long grain rice , delicately flavoured with authentic herbs, spices and saffron.",
+        "price": 369,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.8,
+        "available": true
+      },
+      {
+        "id": 151,
+        "name": "Double Chicken Dum Hyderabadi Biryani",
+        "description": "[Serves with Extra masala and Raita] signature Chicken Biryani with tastefully marinated and succulent pieces of chicken cooked in a rich mix of long grain rice , delicately flavoured with authentic herbs, spices and saffron.",
+        "price": 399,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 152,
+        "name": "Chicken Dum Hyderabadi Boneless Biryani",
+        "description": "[Serves with Raita] A unique take on the classic Chicken Boneless Biryani.",
+        "price": 269,
+        "dietary": [
+          "veg"
+        ],
+        "features": [
+          "Best Seller"
+        ],
+        "rating": 4.9,
+        "available": true
+      },
+      {
+        "id": 153,
+        "name": "Double Chicken Dum Hyderabadi Boneless Biryani",
+        "description": "[Serves with Raita]A unique take on the classic Chicken Boneless Biryani.",
+        "price": 409,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 154,
+        "name": "Bangalore Chicken Kebab Biryani (bone)",
+        "description": "[Serves with Raita] Bangalore style chicken kebab biryani.",
+        "price": 269,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 155,
+        "name": "Special Chicken Hyderabadi Boneless Biryani",
+        "description": "[Serves with Raita] A unique take on the classic Chicken Biryani.",
+        "price": 269,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 156,
+        "name": "Chicken 65 Hyderabadi Biryani",
+        "description": "[Serves with Raita] Classic fusion of our lipsmacking chicken 65 and famous Hyderabadi Biryani.",
+        "price": 269,
+        "dietary": [
+          "veg"
+        ],
+        "features": [
+          "Best Seller"
+        ],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 157,
+        "name": "Butter Chicken Boneless Hyderabadi Biryani",
+        "description": "[Serves with Raita] Classic fusion of our lipsmacking Pepper Chicken and famous Hyderabadi Biryani Rice.",
+        "price": 269,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.8,
+        "available": true
+      },
+      {
+        "id": 158,
+        "name": "Pepper Chicken Hyderabadi Biryani",
+        "description": "[Serves with Extra masala and Raita] signature Chicken Biryani with tastefully marinated and succulent pieces of chicken cooked in a rich mix of long grain rice , delicately flavoured with authentic herbs, spices and saffron.",
+        "price": 269,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 159,
+        "name": "Chicken Dum Hyderabadi Biryani (extra Masala)",
+        "description": "[Serves with Raita] A Hyderabadi dish made with fragrant minced lamb first cooked in aromatic spices, and then cooked once more in scented basmati rice.",
+        "price": 279,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 160,
+        "name": "Keema Hyderabadi Biryani",
+        "description": "[Serves with Raita] Tenderly cooked pieces of mutton mixed with fragrant rice and tangy herbs to give you an absolutely spicy delight.",
+        "price": 289,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 161,
+        "name": "Mutton Dum Hyderabadi Biryani",
+        "description": "[Serves with Extra Masala and Raita] Tenderly cooked pieces of mutton mixed with fragrant rice and tangy herbs to give you an absolutely spicy delight.",
+        "price": 369,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 162,
+        "name": "Extra Masala Mutton Dum Hyderabadi Biryani",
+        "description": "[Serves with Extra Masala and Raita] Tenderly cooked pieces of mutton mixed with fragrant rice and tangy herbs to give you an absolutely spicy delight.",
+        "price": 469,
+        "dietary": [
+          "veg"
+        ],
+        "features": [
+          "Best Seller"
+        ],
+        "rating": 3.6,
+        "available": true
+      },
+      {
+        "id": 163,
+        "name": "Double Mutton Dum Hyderabadi Biryani",
+        "description": "[Serves with Raita] Tenderly cooked boneless chunks of mutton mixed with fragrant rice and tangy herbs to give you an absolutely spicy delight.",
+        "price": 499,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.4,
+        "available": true
+      },
+      {
+        "id": 164,
+        "name": "Mutton Dum Hyderabadi Boneless Biryani",
+        "description": "[Serves with Raita] Tenderly cooked boneless chunks of mutton mixed with fragrant rice and tangy herbs to give you an absolutely spicy delight.",
+        "price": 369,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.9,
+        "available": true
+      },
+      {
+        "id": 165,
+        "name": "Double Mutton Dum Hyderabadi Boneless Biryani",
+        "description": "[Serves with Raita] A layered, aromatic, culinary masterpiece created with slow-cooked on the bone chicken, basmati rice, saffron, warm spices and fresh mint.",
+        "price": 529,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 166,
+        "name": "Andhra Chicken Biryani",
+        "description": "[Serves with Raita] A unique take on the classic Andhra Chicken Boneless Biryani.",
+        "price": 269,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.8,
+        "available": true
+      },
+      {
+        "id": 167,
+        "name": "Andhra Chicken Boneless Biryani",
+        "description": "[Serves with Raita] Biryani rice with chicken curry, marinated in spiced yoghurt, cooked with ghee, ginger, garlic and an assortment of traditional herbs.",
+        "price": 269,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 168,
+        "name": "Andhra Biryani Rice With Chicken Curry",
+        "description": "[Serves with Raita] A rich variant of Andhra Biryani first served in Vijayawada, this flavoursome dish contains chunks of chicken which are first fried before being added to aromatic basmati rice.",
+        "price": 379,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 169,
+        "name": "Andhra Chicken Fry Piece Biryani",
+        "description": "[Serves with Raita] Tenderly cooked boneless chunks of mutton mixed with fragrant rice and tangy herbs to give you an absolutely spicy delight.",
+        "price": 269,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 170,
+        "name": "Andhra Mutton Boneless Biryani",
+        "description": "[Serves with Raita] A rich variant of Andhra Biryani first served in Vijayawada, this flavoursome dish contains chunks of Mutton which are first fried before being added to aromatic basmati rice.",
+        "price": 479,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.2,
+        "available": true
+      },
+      {
+        "id": 171,
+        "name": "Andhra Mutton Fry Piece Biryani",
+        "description": "[Serves with Raita] Tenderly cooked boneless chunks of mutton mixed with fragrant rice and tangy herbs to give you an absolutely spicy delight.",
+        "price": 479,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.6,
+        "available": true
+      },
+      {
+        "id": 172,
+        "name": "Mutton Dum Hyderabadi Biryani (extra Masala)",
+        "description": "[Serves with Raita] Lucknowi style chicken Biryani with a long grain rice.",
+        "price": 459,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.0,
+        "available": true
+      },
+      {
+        "id": 173,
+        "name": "Lucknowi Chicken Biryani",
+        "description": "[Serves with Raita] Kolkata style chicken Biryani with a long grain rice.",
+        "price": 269,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 174,
+        "name": "Kolkata Chicken Biryani",
+        "description": "A handpicked selection of garden fresh vegetables, layered with aromatic saffron rice; delicately flavoured with herbs and blended spices cooked in earthern pot.",
+        "price": 269,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 175,
+        "name": "Handi Veg Dum Hyderabadi Biryani",
+        "description": "[Serves with Raita] Fragrant long grain Basmati rice steamed with delicately spiced cottage cheese and garnished with an assortment of herbs and spices.",
+        "price": 419,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 176,
+        "name": "Handi Special Paneer Hyderabadi Biryani",
+        "description": "Bikkganes signature Chicken Biryani with tastefully marinated and succulent pieces of chicken cooked in a rich mix of long grain rice and dry fruits, delicately flavoured with authentic herbs, spices and saffron cooked in earthern pot.",
+        "price": 479,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 177,
+        "name": "Handi Chicken Dum Hyderabadi Biryani",
+        "description": "Kolkata style chicken Biryani with a long grain rice cooked in earthern pot.",
+        "price": 479,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 178,
+        "name": "Handi Chicken Kolkata Biryani",
+        "description": "Lucknowi style chicken Biryani with a long grain rice cooked in earthern pot.",
+        "price": 469,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Mashi Biryani World",
+    "location": "Laxmi Market, Near Railway Crossing, Patelpuram, Gomti Nagar, Lucknow",
+    "rating": 4.0,
+    "operating_hours": {
+      "mon-fri": "Opens at 11am",
+      "sat-sun": "Opens at 11am"
+    },
+    "contact": {
+      "phone": "+917843888880"
+    },
+    "menu": [
+      {
+        "id": 201,
+        "name": "Handi Special Chicken Dum Biryani",
+        "description": "Serves 1 | Served with raita, mirchi ka salan & pyaz why mashi handi dum biryani? all time favourite mouthwatering deliciously decadent flavoured long grain basmati dum rice layered with tastefully marinated and succulent pieces of chicken cooked in a rich mix of long grain rice, delicately flavoured with authentic herbs, spices and saffron. Will be served with either raita or salan. It is an experience unlike any others.",
+        "price": 430,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 202,
+        "name": "Handi Special Mutton Dum Biryani",
+        "description": "Served with raita, mirchi ka salan & pyaz why mashi handi dum biryani? all time favourite mouthwatering deliciously decadent flavoured long grain basmati dum rice layered with tastefully marinated and succulent pieces of mutton tenderly cooked in a rich mix of long grain rice, delicately flavoured with authentic herbs, spices and saffron. Will be served with either raita or salan. It is an experience unlike any others.",
+        "price": 450,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.1,
+        "available": true
+      },
+      {
+        "id": 203,
+        "name": "Mashi Handi Special Paneer Dum Biryani (serve 2 -3)",
+        "description": "Paneer is cut into soft cubes, marinated in mild, aromatic spices with a light gravy, then layered with aromatic rice and slow-cooked on coal for an authentic dum flavor. Experience tradition in every bite of our Mashi special paneer dum biryani.",
+        "price": 330,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.8,
+        "available": true
+      },
+      {
+        "id": 204,
+        "name": "Mashi Handi Special Egg Dum Biryani (serve 2 -3)",
+        "description": "Why mashi handi dum biryani? (serve with 2 boiled fried eggs & mirchi ka salan) 2 boiled eggs shallow fried and added in aromatic special all time favourite mouthwatering deliciously decadent flavoured dum biryani rice served with mirchi ka salan, raita & salad.",
+        "price": 330,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.0,
+        "available": true
+      },
+      {
+        "id": 205,
+        "name": "Mashi Handi Special Veg Dum Biryani (serve 2 -3)",
+        "description": "Carrots, beans, cauliflower, peas, and potatoes marinated in aromatic spices, layered with aromatic rice, and slow-cooked on coal for an authentic dum flavor. Experience tradition in every bite of our Mashi special dum veg biryani.",
+        "price": 330,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.8,
+        "available": true
+      },
+      {
+        "id": 206,
+        "name": "Hyderabadi Chicken Dum Biryani In Box",
+        "description": "Comes with Served with raita , mirchi ka salan & pyaz | Serves 1 | All time favourite mouthwatering deliciously decadent flavoured long grain basmati dum rice layered with marinated chicken and mashi secret spices dum cooked to perfection. It is an experience unlike any others. (1 large pc)|served with bone/boneless pcs |",
+        "price": 240,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.3,
+        "available": true
+      },
+      {
+        "id": 207,
+        "name": "Hyderabadi Mutton Dum Biryani In Box",
+        "description": "Serves 1 with raita, mirchi ka salan & pyaz (1 large pc) all time favourite mouthwatering deliciously decadent flavoured long grain basmati dum rice layered with marinated mutton and mashi secret spices dum cooked to perfection. It is an experience unlike any others.",
+        "price": 260,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.1,
+        "available": true
+      },
+      {
+        "id": 208,
+        "name": "Mashi Special Veg Dum Biryani In Big Box",
+        "description": "Carrots, beans, cauliflower, peas, and potatoes marinated in aromatic spices, layered with aromatic rice, and slow-cooked on coal for an authentic dum flavor. Experience tradition in every bite of our Mashi special dum veg biryani.",
+        "price": 160,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.3,
+        "available": true
+      },
+      {
+        "id": 209,
+        "name": "Mashi Special Egg Dum Biryani In Big Box",
+        "description": "(serve with 2 boiled fried eggs & mirchi ka salan) 2 boiled eggs shallow fried and added in aromatic special all time favourite mouthwatering deliciously decadent flavoured dum biryani rice served with mirchi ka salan, raita & salad.",
+        "price": 160,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.5,
+        "available": true
+      },
+      {
+        "id": 210,
+        "name": "Mashi Special Paneer Dum Biryani In Big Box",
+        "description": "Paneer is cut into soft cubes, marinated in mild, aromatic spices with a light gravy, then layered with aromatic rice and slow-cooked on coal for an authentic dum flavor. Experience tradition in every bite of our Mashi special paneer dum biryani.",
+        "price": 160,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.1,
+        "available": true
+      },
+      {
+        "id": 211,
+        "name": "Mashi Special Paneer tikka Biryani In Box",
+        "description": "Paneer cubes marinated in tikka spices, grilled to perfection, and then added to aromatic rice, slow-cooked on coal. Experience the smoky, savory magic in every bite of our special Mashi special paneer dum tikka biryani.",
+        "price": 160,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.7,
+        "available": true
+      },
+      {
+        "id": 212,
+        "name": "Hyderabadi Chicken Dum Biryani + Raita + Pyaz",
+        "description": "Comes with Served with raita , mirchi ka salan and pyaz | Serves 1 | Serves with raita, mirchi ka salan & pyaz all time favourite mouthwatering deliciously decadent flavoured long grain basmati dum rice layered with marinated chicken and mashi secret spices dum cooked to perfection. It is an experience unlike any others.",
+        "price": 280,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.2,
+        "available": true
+      },
+      {
+        "id": 213,
+        "name": "Mashi Special Veg Dum Biryani",
+        "description": "Comes with Served with raita & pyaz salad | Serves 1 | Carrots, beans, cauliflower, peas, and potatoes marinated in aromatic spices, layered with aromatic rice, and slow-cooked on coal for an authentic dum flavor. Experience tradition in every bite of our Mashi special dum veg biryani.",
+        "price": 200,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.1,
+        "available": true
+      },
+      {
+        "id": 214,
+        "name": "Mashi Special Egg Dum Biryani (serves 2 Boiled Fried Eggs)",
+        "description": "Comes with Served with mirchi ka salan , rayta & salad | Serves 1 | Serves 2 with 2 boiled fried eggs & mirchi ka salan) 2 boiled eggs shallow fried and added in aromatic special all time favourite mouthwatering deliciously decadent flavoured dum biryani rice served with mirchi ka salan, raita & salad.",
+        "price": 200,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.9,
+        "available": true
+      },
+      {
+        "id": 215,
+        "name": "Hyderabadi Mutton Dum Biryani + Raita + Pyaz",
+        "description": "Serves with raita, mirchi ka salan & pyaz all time favourite mouthwatering deliciously decadent flavoured long grain basmati dum rice layered with marinated mutton and mashi secret spices dum cooked to perfection. It is an experience unlike any others.",
+        "price": 310,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.7,
+        "available": true
+      },
+      {
+        "id": 216,
+        "name": "Mashi Special Paneer Dum Biryani",
+        "description": "Comes with Served with raita & pyaz salad | Serves 1 | Paneer is cut into soft cubes, marinated in mild, aromatic spices with a light gravy, then layered with aromatic rice and slow-cooked on coal for an authentic dum flavor. Experience tradition in every bite of our Mashi special paneer dum biryani.",
+        "price": 200,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 2.9,
+        "available": true
+      },
+      {
+        "id": 217,
+        "name": "Dum Chicken Extra Pcs",
+        "description": "Dum chicken pieces marinated in mashi's secret spices.",
+        "price": 110,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.3,
+        "available": true
+      },
+      {
+        "id": 218,
+        "name": "Dum Mutton Extra Pcs",
+        "description": "Dum mutton pieces marinated in mashi's secret spices.",
+        "price": 140,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.8,
+        "available": true
+      },
+      {
+        "id": 219,
+        "name": "Mashi Special Paneer Tikka Biryani",
+        "description": "Paneer cubes marinated in tikka spices, grilled to perfection, and then added to aromatic rice, slow-cooked on coal. Experience the smoky, savory magic in every bite of our special Mashi special paneer dum tikka biryani.",
+        "price": 200,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 220,
+        "name": "Special Chicken Lollipop (4 Large Pcs)",
+        "description": "Crunchy and juicy kuduk chicken lollipops are bite-sized pieces of chicken drumstick, served on a stick, similar to a lollipop, and are a popular snack or appetizer.",
+        "price": 199,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.0,
+        "available": true
+      },
+      {
+        "id": 221,
+        "name": "Special Boneless Chicken (3 Large Pcs)",
+        "description": "Perfect to have anytime in the day, these chicken boneless strips will fulfil your appetite served with sauces and mayonnaise. (serve 1 with 3 large pcs).",
+        "price": 199,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 222,
+        "name": "Large Hot & Crispy Chicken (2 Large Pcs)",
+        "description": "All time favourite sinfully crunchy juicy and crispy freshly prepared chicken cooked to perfection served with a dip.",
+        "price": 249,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 223,
+        "name": "Special Chicken Popcorn (loaded Pack Of Popcorn)",
+        "description": "All time favorite juicy chicken chunks dipped in a perfectly seasoned batter and fried to golden crispiness.(serve 1 with big pack).",
+        "price": 189,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.2,
+        "available": true
+      },
+      {
+        "id": 224,
+        "name": "Special Chicken Hot Wings (6 Large Pcs)",
+        "description": "All time favourite sinfully juicy and crispy chicken wings cooked to perfection served with a dip. (serve 1 with 6 large pcs).",
+        "price": 199,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.7,
+        "available": true
+      },
+      {
+        "id": 225,
+        "name": "Special Mughlai Paratha",
+        "description": "Paratha is an Indian flatbread that is a staple in many Indian homes served for breakfast. It is made with whole wheat flour ka atta.",
+        "price": 30,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.1,
+        "available": true
+      },
+      {
+        "id": 226,
+        "name": "Mashi Special Chicken Galawati Kabab",
+        "description": "A Lucknowi specialty made by marinating the finely ground chicken meat and a mixed of exotic spices. Served with lachha pyaaz and mint chutney.",
+        "price": 60,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "McDonald's",
+    "location": "Ground Floor, Fun Republic Mall, Gomti Nagar, Lucknow",
+    "rating": 4.1,
+    "operating_hours": {
+      "mon-fri": "Opens at 11am",
+      "sat-sun": "Opens at 11am"
+    },
+    "contact": {
+      "phone": "+919919990586"
+    },
+    "menu": [
+      {
+        "id": 301,
+        "name": "Korean McSpicy®Paneer Meal*",
+        "description": "Korean Crispy and spicy paneer patty with Gochujang Sauce and crispy lettuce topping and Red cabbage.",
+        "price": 367,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.3,
+        "available": true
+      },
+      {
+        "id": 302,
+        "name": "Korean McSpicy®Paneer Burger*",
+        "description": "Juicy Chicken meat coated in crispy batter with a kick of spice topped with a Gochujang Sauce and crispy lettuce topping and Red cabbage.",
+        "price": 206,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.1,
+        "available": true
+      },
+      {
+        "id": 303,
+        "name": "EVM Korean McSpicy®Paneer*",
+        "description": "A tikki delight:Potato and peas patty topped with Gochujang Sauce and onions with toasted buns",
+        "price": 352,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.2,
+        "available": true
+      },
+      {
+        "id": 304,
+        "name": "Large Korean McSpicy® Paneer",
+        "description": "\"Order the exclusive Minecraft Meal today and get 1-6 FREE collectible cards with your meal! Don���t miss out on this limited-time offer!\"",
+        "price": 376,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.4,
+        "available": true
+      },
+      {
+        "id": 305,
+        "name": "Korean McSpicy®Chicken Meal*",
+        "description": "\"Order the exclusive Minecraft Meal today and get 1-6 FREE collectible cards with your meal! Don���t miss out on this limited-time offer!\"",
+        "price": 378,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.0,
+        "available": true
+      },
+      {
+        "id": 306,
+        "name": "Korean McSpicy®Chicken Burger*",
+        "description": "Bite-sized pieces of breaded boneless chicken, fried and served hot with smoke-flavoured Barbeque Sauce or Mustard Sauce",
+        "price": 217,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 307,
+        "name": "EVM Korean McSpicy®Chicken*",
+        "description": "A crunchy patty made from a blend of 7 exotic veggies, topped with crisp lettuce and a tangy cocktail sauce, all nestled in soft, glazed potato buns. A delightful mix of bold flavours and ultimate satisfaction in every bite.",
+        "price": 360,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.0,
+        "available": true
+      },
+      {
+        "id": 308,
+        "name": "Large EVM Korean McSpicy�� Chicken",
+        "description": "Delightfully crispy chicken sandwich with a crispy chicken patty topped with mayonnaise and shredded iceberg lettuce served on a perfectly toasty bun.",
+        "price": 384,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.9,
+        "available": true
+      },
+      {
+        "id": 309,
+        "name": "Korean McAlooTikki Meal*",
+        "description": "A crunchy patty made from a blend of 7 exotic veggies, topped with crisp lettuce and a tangy cocktail sauce, all nestled in soft, glazed potato buns. A delightful mix of bold flavours and ultimate satisfaction in every bite.",
+        "price": 229,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 310,
+        "name": "Korean McAloo Tikki Burger",
+        "description": "A golden, crispy chicken fillet made from whole muscle, paired with fresh lettuce and creamy ranch, all inside soft, glazed potato buns. Packed with bold flavours and pure satisfaction in every bite.",
+        "price": 68,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.3,
+        "available": true
+      },
+      {
+        "id": 311,
+        "name": "EVM Korean McAloo Tikki Burger",
+        "description": "Potato bun, with rich and crusty cheesy corn patty, topped with chunky vegetable-Roasted sauce served with Gherkin slices, Cheddar cheese patty and crisp iceberg lettuce and Red cabbage",
+        "price": 217,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.2,
+        "available": true
+      },
+      {
+        "id": 312,
+        "name": "Large EVM Korean McAloo Tikki",
+        "description": "Chunky juicy whole Muscle chicken patty with fresh and premium ingredients such as Gherkin slices ,Red cabbage and crunchy lettuce, dressed with Veg Mayo.",
+        "price": 242,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 313,
+        "name": "Minecraft Veg Surprise Meal",
+        "description": "An all time favourite treat bringing together the perfect blend of creamy vanilla soft serve and strawberry flavor.Now in new, convenient and delivery friendly packaging.",
+        "price": 263,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 314,
+        "name": "Minecraft Chicken Surprise Meal",
+        "description": "The classic sinful chocolate shake, a treat for anytime you need one. Now in a new, convenient and delivery friendly packaging",
+        "price": 268,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.0,
+        "available": true
+      },
+      {
+        "id": 315,
+        "name": "Minecraft Chicken McNuggets® 9pc",
+        "description": "A refreshing sweet treat made from vanilla flavour and Oreo cookie pieces which are blended with ice. Now in a new, convenient and delivery friendly packaging.",
+        "price": 209,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.2,
+        "available": true
+      },
+      {
+        "id": 316,
+        "name": "Minecraft Small McFlurry® Oreo",
+        "description": "Rich, creamy and irresistible cold coffee, created by blending a double shot of espresso, ice cream & milk",
+        "price": 93,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 317,
+        "name": "Minecraft Small McFlurry® Choc crunch",
+        "description": "Rich, creamy cold coffee, made with caramel syrup and milk, topped with whipped cream and with caramel sauce",
+        "price": 93,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.9,
+        "available": true
+      },
+      {
+        "id": 318,
+        "name": "McAloo Tikki Meal",
+        "description": "A refreshing shot of our signature McCaf�� coffee made with 100% arabica beans, topped with milk that is steamed to a thick, perfect foam.",
+        "price": 117,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 319,
+        "name": "Veg Surprise Meal",
+        "description": "A refreshing shot of our signature McCaf�� coffee made with 100% arabica beans, topped with milk that is steamed to a thick, perfect foam.",
+        "price": 128,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 320,
+        "name": "Chicken Surprise Meal",
+        "description": "Rich in flavour espresso balanced with steamed milk and a light layer of foam",
+        "price": 128,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 321,
+        "name": "McEgg Meal",
+        "description": "Rich in flavour espresso balanced with steamed milk and a light layer of foam",
+        "price": 122,
+        "dietary": [
+          "veg"
+        ],
+        "features": [
+          "Best Seller"
+        ],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 322,
+        "name": "Crispy Veggie Burger*",
+        "description": "A refreshing combination of chocolate, our signature McCaf�� coffee made with 100% Arabica beans and steamed milk, topped off with chocolate syrup.",
+        "price": 196,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.7,
+        "available": true
+      },
+      {
+        "id": 323,
+        "name": "EVM Crispy Veggie*",
+        "description": "A refreshing combination of chocolate, our signature McCafé coffee made with 100% Arabica beans and steamed milk, topped off with chocolate syrup.",
+        "price": 334,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.2,
+        "available": true
+      },
+      {
+        "id": 324,
+        "name": "Large Crispy Veggie*",
+        "description": "Our Americano is bold and robust, made with our signature McCafé coffee combined with hot water. For coffee aficionados who prefer a bolder cup.",
+        "price": 360,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 325,
+        "name": "McCrispy® Chicken*",
+        "description": "Our Americano is bold and robust, made with our signature McCafé coffee combined with hot water. For coffee aficionados who prefer a bolder cup.",
+        "price": 218,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.9,
+        "available": true
+      },
+      {
+        "id": 326,
+        "name": "EVM McCrispy�� Chicken*",
+        "description": "A perfect blend of aromatic teas, infused with peach flavour. Now in a new, convenient and delivery friendly packaging",
+        "price": 357,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 5.0,
+        "available": true
+      },
+      {
+        "id": 327,
+        "name": "Large EVM McCrispy�� Chicken",
+        "description": "A perfect silky treat made with sinful chocolate steamed with 100% real milk and topped with an even sweeter touch of more chocolate.",
+        "price": 383,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 328,
+        "name": "Crispy Veggie Double patty Burger",
+        "description": "Concentrated black coffee shot.Our signature McCafé coffee made with 100% Arabica beans",
+        "price": 309,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.1,
+        "available": true
+      },
+      {
+        "id": 329,
+        "name": "EVM Crispy Veggie Double patty Burger",
+        "description": "Freshly steamed milk with vanilla-flavoured syrup is marked with espresso",
+        "price": 447,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.1,
+        "available": true
+      },
+      {
+        "id": 330,
+        "name": "Large EVM Crispy Veggie Double patty Burger",
+        "description": "Strawberry Cheesecake",
+        "price": 474,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 5.0,
+        "available": true
+      },
+      {
+        "id": 331,
+        "name": "McCrispy® Chicken Double patty Burger",
+        "description": "Garlic Sub Marinara Toasty",
+        "price": 332,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 332,
+        "name": "EVM McCrispy® Chicken Double patty Burger",
+        "description": "Combo of your Favorite Burger with choice of Beverage and Surprise Toy!",
+        "price": 470,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 333,
+        "name": "Large EVM McCrispy® Chicken Double patty Burger",
+        "description": "Combo of your Favorite Burger with choice of Beveraget and Surprise Toy!",
+        "price": 497,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 334,
+        "name": "McVeggie Burger+ Small Fries+Small Coke+McPuff",
+        "description": "Combo of your Favorite Burger with choice of Beverage and Surprise Toy!",
+        "price": 202,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 335,
+        "name": "McChicken Burger+Small Fries +Small Coke+McPuff",
+        "description": "Combo of your Favorite Burger with choice of Beverage and Surprise Toy!",
+        "price": 237,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.8,
+        "available": true
+      },
+      {
+        "id": 336,
+        "name": "McAloo Tikki+Small Fries+Small drink+McPuff",
+        "description": "Big Mac sesame seeds bun, with rich and crusty cheesy corn patty, topped with chunky vegetable-cocktail sauce served with pungent jalapeño slices, red onion slices, tomato slices, Cheddar cheese slice and crisp iceberg lettuce.",
+        "price": 143,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.1,
+        "available": true
+      },
+      {
+        "id": 337,
+        "name": "McAloo Tikki+Small Fries+Small drink+McFlurry",
+        "description": "Crispy and spicy paneer patty with creamy tandoori sauce and crispy lettuce topping.",
+        "price": 166,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 338,
+        "name": "McAloo Tikki+Small Coke",
+        "description": "A patty made of potatoes, peas, carrots, beans, onions, red capsicum and a selection of Indian spices, topped with crispy lettuce, mayonnaise, packed into sesame toasted buns.",
+        "price": 135,
+        "dietary": [
+          "veg"
+        ],
+        "features": [
+          "Best Seller"
+        ],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 339,
+        "name": "VegSurprise+McPuff",
+        "description": "Potato and peas patty topped with spicy Schezwan sauce and onions with toasted buns",
+        "price": 125,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 340,
+        "name": "McAloo Tikki+McPuff",
+        "description": "A tikki delight: Potato and peas patty topped with veg sauce, ketchup, tomatoes and onions with toasted buns",
+        "price": 104,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.4,
+        "available": true
+      },
+      {
+        "id": 341,
+        "name": "McEgg+Puff",
+        "description": "Mildly spiced grilled paneer patty topped with makhani sauce and shredded onions placed between freshly toasted sesame seeded buns",
+        "price": 111,
+        "dietary": [
+          "veg"
+        ],
+        "features": [
+          "Best Seller"
+        ],
+        "rating": 4.2,
+        "available": true
+      },
+      {
+        "id": 342,
+        "name": "Grand Cheese Signature Collection",
+        "description": "A surprise that will leave you wide-eyed. A scrumptious potato patty topped with a delectable Italian herb sauce and shredded onions placed between perfectly toasted buns.",
+        "price": 259,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 343,
+        "name": "EVM Grand Cheese",
+        "description": "Chunky juicy grilled chicken patty with fresh and premium ingredients such as jalapeño, onion, Cheddar cheese, tomatoes and crunchy lettuce, dressed with classic Habanero sauce.",
+        "price": 397,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 344,
+        "name": "Large EVM Grand Cheese",
+        "description": "Made with Alaskan Pollock sourced from sustainable fisheries, topped with cheese slice and creamy tartar sauce, served on a soft, steamed bun.",
+        "price": 421,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.6,
+        "available": true
+      },
+      {
+        "id": 345,
+        "name": "Grand Chicken Signature Collection",
+        "description": "Juicy Chicken meat coated in crispy batter with a kick of spice topped with a creamy sauce and crispy lettuce.",
+        "price": 263,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 346,
+        "name": "EVM Grand Chicken",
+        "description": "Delightfully crispy chicken sandwich with a crispy chicken patty topped with mayonnaise and shredded iceberg lettuce served on a perfectly toasty bun.",
+        "price": 401,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 2.6,
+        "available": true
+      },
+      {
+        "id": 347,
+        "name": "Large EVM Grand Chicken",
+        "description": "Grilled chicken patty served with freshly toasted bun, tomatoes, onions and cool mint sauce",
+        "price": 426,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 2.8,
+        "available": true
+      },
+      {
+        "id": 348,
+        "name": "VM McVeggie®",
+        "description": "chicken patty served with freshly toasted bun,onions and Roasted Chipotle Sauce",
+        "price": 198,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.9,
+        "available": true
+      },
+      {
+        "id": 349,
+        "name": "McVeggie VM ®",
+        "description": "An Egg lover's delight! A unique combination of perfectly steamed egg, classic mayonnaise and chopped onions with a sprinkling of magic masala sandwiched in a toasted bun.",
+        "price": 177,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 2.1,
+        "available": true
+      },
+      {
+        "id": 350,
+        "name": "Aloo Wrap VM",
+        "description": "Tender paneer patty with a fiery, crunchy batter coating, dressed with fresh veggies and seasonings, topped with creamy sauce and a dash of mustard and melted cheese.",
+        "price": 155,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 351,
+        "name": "VM McChicken®",
+        "description": "Aloo Tikki patty topped with tandoori sauce, onions and lettuce wrapped in a tortilla.",
+        "price": 234,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.7,
+        "available": true
+      },
+      {
+        "id": 352,
+        "name": "McChicken VM��",
+        "description": "Juicy chicken coated with hot and crispy batter, dressed with fresh salad of lettuce, onions, tomatoes and seasonings. Served with creamy sauce and supple cheese slices.",
+        "price": 213,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 353,
+        "name": "VM Chicken McGrill®",
+        "description": "Grilled chicken patty topped with tandoori sauce, onions and lettuce wrapped in a tortilla.",
+        "price": 198,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.9,
+        "available": true
+      },
+      {
+        "id": 354,
+        "name": "Tandoori Chicken Wrap VM",
+        "description": "Egg patty topped with tandoori sauce, onions and lettuce wrapped in a tortilla.",
+        "price": 181,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.9,
+        "available": true
+      },
+      {
+        "id": 355,
+        "name": "Egg Wrap VM",
+        "description": "Crispy and spicy paneer patty with creamy tandoori sauce and crispy lettuce topping.",
+        "price": 167,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 356,
+        "name": "Chicken McGrill VM®",
+        "description": "A patty made of potatoes, peas, carrots, beans, onions, red capsicum and a selection of Indian spices, topped with crispy lettuce, mayonnaise, packed into sesame toasted buns.",
+        "price": 177,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 357,
+        "name": "Iced Coffee",
+        "description": "Mildly spiced grilled paneer patty topped with makhani sauce and shredded onions placed between freshly toasted sesame seeded buns",
+        "price": 125,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.4,
+        "available": true
+      },
+      {
+        "id": 358,
+        "name": "Watermelon Cooler",
+        "description": "2 patties topped with spicy schezwan sauce and onions with toasted buns",
+        "price": 114,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.5,
+        "available": true
+      },
+      {
+        "id": 359,
+        "name": "Strawberry Shake",
+        "description": "A tikki delight: Potato and peas patty topped with veg sauce, ketchup, tomatoes and onions with toasted buns",
+        "price": 194,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 360,
+        "name": "Chocolate Shake",
+        "description": "Juicy Chicken meat coated in crispy batter with a kick of spice topped with a creamy sauce and crispy lettuce.",
+        "price": 194,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.9,
+        "available": true
+      },
+      {
+        "id": 361,
+        "name": "Vanilla Oreo Shake",
+        "description": "Delightfully crispy chicken sandwich with a crispy chicken patty topped with mayonnaise and served on a perfectly toasty bun.",
+        "price": 206,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.2,
+        "available": true
+      },
+      {
+        "id": 362,
+        "name": "Mango Thick Shake",
+        "description": "Made with Alaskan Pollock sourced from sustainable fisheries, topped with cheese slice and creamy tartar sauce, served on a soft, steamed bun.",
+        "price": 194,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 5.0,
+        "available": true
+      },
+      {
+        "id": 363,
+        "name": "Cold Coffee Frappe",
+        "description": "Delightfully crispy chicken sandwich with a crispy chicken patty topped with mayonnaise and shredded iceberg lettuce served on a perfectly toasty bun.",
+        "price": 206,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 364,
+        "name": "Caramel Frappe",
+        "description": "2 grilled chicken patties served with freshly toasted bun, tomatoes, onions and cool mint sauce",
+        "price": 286,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.3,
+        "available": true
+      },
+      {
+        "id": 365,
+        "name": "Cappuccino",
+        "description": "Hi, it’s McFlavor on this side! The all-time favourite fries with a generous dollop of McFlavor yet smoky chipotle sauce and Gochujang Sauce",
+        "price": 171,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 366,
+        "name": "Cappuccino Small",
+        "description": "Hi, it’s McFlavor on this side! The all-time favourite fries with a generous dollop of McFlavor yet smoky chipotle sauce.",
+        "price": 114,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.8,
+        "available": true
+      },
+      {
+        "id": 367,
+        "name": "Latte",
+        "description": "Hi, it’s McFlavor on this side! The all-time favourite fries with a generous dollop of McFlavor yet smoky chipotle sauce.",
+        "price": 183,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.2,
+        "available": true
+      },
+      {
+        "id": 368,
+        "name": "Latte Small",
+        "description": "World Famous Fries®. These epic, fan-favourite fries are crispy and golden on the outside and fluffy on the inside.",
+        "price": 148,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 369,
+        "name": "Mocha",
+        "description": "World Famous Fries®. These epic, fan-favourite fries are crispy and golden on the outside and fluffy on the inside.",
+        "price": 229,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 370,
+        "name": "Mocha Small",
+        "description": "World Famous Fries®. These epic, fan-favourite fries are crispy and golden on the outside and fluffy on the inside.",
+        "price": 183,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 371,
+        "name": "Americano",
+        "description": "Blend of assorted vegetables [carrot, beans, capsicum, onion and green peas], mozzarella cheese mixed with tomato sauce and exotic spices stuffed in rectangle shaped savoury dough",
+        "price": 171,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 372,
+        "name": "Americano Small",
+        "description": "The perfect, taste bud tingling partner for our world-famous fries. Shake shake, and dive in!",
+        "price": 137,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.0,
+        "available": true
+      },
+      {
+        "id": 373,
+        "name": "Peach Iced Tea",
+        "description": "Bite-sized pieces of breaded boneless chicken, fried and served hot with smoke-flavoured Barbeque Sauce or Mustard Sauce",
+        "price": 194,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.0,
+        "available": true
+      },
+      {
+        "id": 374,
+        "name": "Hot Chocolate",
+        "description": "Bite-sized pieces of breaded boneless chicken, fried and served hot with smoke-flavoured Barbeque Sauce or Mustard Sauce",
+        "price": 171,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 375,
+        "name": "Espresso Small",
+        "description": "Bite-sized pieces of breaded boneless chicken, fried and served hot with smoke-flavoured Barbeque Sauce or Mustard Sauce",
+        "price": 102,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 376,
+        "name": "Macchiato Small",
+        "description": "World Famous Fries®. These epic, fan-favourite fries are crispy and golden on the outside and fluffy on the inside.",
+        "price": 137,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 377,
+        "name": "Strawberry Cheese cake",
+        "description": "A rich smooth creamy cold coffee made with coffee powder and milk.",
+        "price": 219,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 378,
+        "name": "Butter Croissant",
+        "description": "Specially curated milk based beverage for indian kids with rich chocolate taste and no artificial colors, flavors & preservatives",
+        "price": 197,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.2,
+        "available": true
+      },
+      {
+        "id": 379,
+        "name": "Garlic Marinara Toasty",
+        "description": "A sweet tangy lime flavored tea",
+        "price": 153,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.1,
+        "available": true
+      },
+      {
+        "id": 380,
+        "name": "EVM Chicken Surprise",
+        "description": "Masala chai is a smooth and spicy blend of natural tea extract, milk solids, black pepper, fennel, clove and cinnamon.",
+        "price": 222,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.1,
+        "available": true
+      },
+      {
+        "id": 381,
+        "name": "EVM Veg Maharaja Mac",
+        "description": "Smoky Chipotle Sauce",
+        "price": 375,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Belgium Waffle",
+    "location": "Shop 9, Lalji Tandon Marg, Chowk, Lucknow",
+    "rating": 4.6,
+    "operating_hours": {
+      "mon-fri": "Opens at 12noon",
+      "sat-sun": "Opens at 12noon"
+    },
+    "contact": {
+      "phone": "+919519527711"
+    },
+    "menu": [
+      {
+        "id": 401,
+        "name": "Death By Choco-rush",
+        "description": "Dive into our signature Choco waff-wich, layered with milk Choco spread topped with hot Choco fudge, choco chips, Oreos, Kit Kat, and rich creamy Choco ice cream. It's a breath-stealing blend of pure indulgence!",
+        "price": 265,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 402,
+        "name": "Almond Fudge Brownie",
+        "description": "Epitome of indulgence in a single bite: A waff-wich and a Brownie layered with the goodness of Nutella & topped with hot Choco fudge, roasted almond, wafer roll & creamy vanilla ice cream- a symphony of flavors that unites the best of both worlds.",
+        "price": 245,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.9,
+        "available": true
+      },
+      {
+        "id": 403,
+        "name": "Nutella Overload",
+        "description": "Unleash the mighty flavour with our crispy classic waff-wich layered in Nutella, crowned with vanilla ice cream, and topped with melted Belgian white Choco, Nutella spread, roasted almonds, and a playful wafer roll. It's a taste revolution!",
+        "price": 280,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.8,
+        "available": true
+      },
+      {
+        "id": 404,
+        "name": "KitKat Affair",
+        "description": "Make the most of this Affair. Our crispy classic waff-wich is a masterpiece layered with melted Belgian white Choco topped with creamy vanilla ice cream, KitKat crumbs & drizzled with melted Belgian white and milk Choco. For KitKat lovers!",
+        "price": 245,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.0,
+        "available": true
+      },
+      {
+        "id": 405,
+        "name": "Happiness in mini version + 1 FREE Delight",
+        "description": "Buy Choco Mini Waffle Combo pack of 6 and select 1 FREE waffle or pancake from our top picks.",
+        "price": 511,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 5.0,
+        "available": true
+      },
+      {
+        "id": 406,
+        "name": "Keep Cake & Celebrate + 1 FREE Delight",
+        "description": "Choose any one double layer waffle cake- Death by Choco-rush Waffle Cake (Double Layer)/ Red velvet waffle Cake (Double Layer)/ Kiki and Oreo Cream waffle cake (Double Layer) and select 1 FREE waffle or pancake from our top picks.",
+        "price": 580,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.8,
+        "available": true
+      },
+      {
+        "id": 407,
+        "name": "The Belgian Club + 1 Free Delight (Milk)",
+        "description": "Buy Belgian Chocomelt [Milk] waffle and select 1 FREE waffle or pancake from our to picks.",
+        "price": 467,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 408,
+        "name": "The Belgian Club + 1 Free Delight (Dark)",
+        "description": "Buy 3 Belgian Chocomelt waffle (Dark) and get a free delight (Free Delight: kiki and oreo cream pancake or Triple Chocomelt pancake or Belgian Chocomelt waffle or maple butter waffle)",
+        "price": 467,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.9,
+        "available": true
+      },
+      {
+        "id": 409,
+        "name": "Best Of The Best",
+        "description": "Share our besties with your besties! Choose any 5 best-selling Waffle from below list for a flat price! (Naked Nutella or Triple Chocomelt or Belgian Chocomelt Milk or Belgian Chocomelt Dark or KitKat Waffle or Red Velvet).",
+        "price": 660,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.8,
+        "available": true
+      },
+      {
+        "id": 410,
+        "name": "Mini Treats",
+        "description": "Treat your tribe! Save Rs. 67 flat & enjoy Mini Waffle pack of 4 (assorted) + Mini Waffle pack of 4 (chocolate).",
+        "price": 625,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.0,
+        "available": true
+      },
+      {
+        "id": 411,
+        "name": "The WaffShake Duo",
+        "description": "Triple Chocomelt Waffle + Belgian Chocomelt Shake.",
+        "price": 346,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 5.0,
+        "available": true
+      },
+      {
+        "id": 412,
+        "name": "Treats For Two",
+        "description": "1 for you, 1 for me & 1 for us. Save Rs. 52 flat & enjoy Belgian Chocomelt Milk Waffle + Red Velvet Waffle + Signature Cold Coffee.",
+        "price": 410,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.8,
+        "available": true
+      },
+      {
+        "id": 413,
+        "name": "Mini Waffle Box of 4 - Chocoholic's",
+        "description": "Can’t Pick One? Try A Carefully Curated Assortment of our Bestselling Chocolate Favorites. Includes Naked Nutella, Belgian Chocolate (Milk), Chocolate Overload (Dark) And Dark & White Fantasy Mini Waffles In An All-In-One Combo Pack.",
+        "price": 365,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.7,
+        "available": true
+      },
+      {
+        "id": 414,
+        "name": "Mini Waffle Box of 6 - Chocoholic's",
+        "description": "Can’t Pick One? Try A Carefully Curated Assortment of our Bestselling Chocolate Favorites. Includes Naked Nutella, Belgian Chocolate (Dark), Belgian Chocolate (Milk), Kit kat, Chocolate Overload (Milk) And Dark & White Fantasy Mini Waffles In An All-In-One Combo Pack.",
+        "price": 525,
+        "dietary": [
+          "veg"
+        ],
+        "features": [
+          "Best Seller"
+        ],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 415,
+        "name": "Mini Waffle Box of 4 - Assorted",
+        "description": "In The Mood For Variety? Try A Carefully Curated Assortment Of Some Of Our Fan Favorites. Includes Belgian Chocomelt (Milk), Almond Cocoa Butter, Red Velvet And Berry Red Velvet Mini Waffles in an All-In-One Combo Pack.",
+        "price": 365,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.8,
+        "available": true
+      },
+      {
+        "id": 416,
+        "name": "Mini Waffle Box of 6 - Assorted",
+        "description": "In The Mood For Even More Variety? Try A Carefully Curated Assortment of Some of our Fan Favorites. Includes Naked Nutella, Belgian Chocomelt (Milk), Chocobite Overload (Milk), Dark & White Fantasy, Red Velvet And Berry Red Velvet Mini Waffles In An All-In-One Combo Pack.",
+        "price": 525,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.9,
+        "available": true
+      },
+      {
+        "id": 417,
+        "name": "Mini Waffle Box of 4 - Premium Assorted",
+        "description": "Experience indulgence at its finest with our newly launched Premium Mini Waffle Box of 4. Get your favourites in one box: Blueberry Cheesecake + Lotus Biscoff Cheesecake + KitKat + Belgian Milk Choco.",
+        "price": 375,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.8,
+        "available": true
+      },
+      {
+        "id": 418,
+        "name": "Mini Waffle Box of 6 - Premium Assorted",
+        "description": "Devour the ultimate indulgence with our newly launched Premium Mini Waffle Box of 6. Could you ask for more when you have Blueberry Cheesecake + Strawberry Cheesecake + Red Velvet + Berry Red Velvet + Lotus Biscoff + Kiki and Oreo, all favourite waffle in one box!",
+        "price": 525,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.1,
+        "available": true
+      },
+      {
+        "id": 419,
+        "name": "Death by Choco-rush Waffle Cake (Single Layer)",
+        "description": "Your Favourite Death By Chocolate (Single Layer) gets a new name! Signature dark Choco single layer waffle cake layered with creamy White, Milk and Dark melted Belgian Chocomelt. Triple the Choco, triple the fun! (Sorry! Our special waffle cakes do not allow for any customization. We do not provide candles or cutlery with this order)",
+        "price": 410,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 420,
+        "name": "Berry Red Velvet Waffle Cake (Single Layer)",
+        "description": "\"Original Red Velvet Single Layer Waffle Cake with Strawberry Compote + Creamy Cheesecake* filling and Melted White Choco Topped with Red Velvet Crumbs. A True Original - Enhanced! *Cheesecake flavour filling, contains spray dried cheese powder (Sorry! Our special waffle cakes do not allow for any customization. We do not provide candles or cutlery with this order)\"",
+        "price": 410,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 421,
+        "name": "Death By Choco-rush",
+        "description": "Dive into our signature Choco waff-wich, layered with milk Choco spread topped with hot Choco fudge, choco chips, Oreos, Kit Kat, and rich creamy Choco ice cream. It's a breath-stealing blend of pure indulgence!",
+        "price": 265,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 422,
+        "name": "Almond Fudge Brownie",
+        "description": "Epitome of indulgence in a single bite: A waff-wich and a Brownie layered with the goodness of Nutella & topped with hot Choco fudge, roasted almond, wafer roll & creamy vanilla ice cream- a symphony of flavors that unites the best of both worlds.",
+        "price": 245,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.5,
+        "available": true
+      },
+      {
+        "id": 423,
+        "name": "Nutella Overload",
+        "description": "Unleash the mighty flavour with our crispy classic waff-wich layered in Nutella, crowned with vanilla ice cream, and topped with melted Belgian white Choco, Nutella spread, roasted almonds, and a playful wafer roll. It's a taste revolution!",
+        "price": 280,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.9,
+        "available": true
+      },
+      {
+        "id": 424,
+        "name": "KitKat Affair",
+        "description": "Make the most of this Affair. Our crispy classic waff-wich is a masterpiece layered with melted Belgian white Choco topped with creamy vanilla ice cream, KitKat crumbs & drizzled with melted Belgian white and milk Choco. For KitKat lovers!",
+        "price": 245,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 425,
+        "name": "Happiness in mini version + 1 FREE Delight",
+        "description": "Buy Choco Mini Waffle Combo pack of 6 and select 1 FREE waffle or pancake from our top picks.",
+        "price": 511,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.8,
+        "available": true
+      },
+      {
+        "id": 426,
+        "name": "Keep Cake & Celebrate + 1 FREE Delight",
+        "description": "Choose any one double layer waffle cake- Death by Choco-rush Waffle Cake (Double Layer)/ Red velvet waffle Cake (Double Layer)/ Kiki and Oreo Cream waffle cake (Double Layer) and select 1 FREE waffle or pancake from our top picks.",
+        "price": 580,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 427,
+        "name": "The Belgian Club + 1 Free Delight (Milk)",
+        "description": "Buy Belgian Chocomelt [Milk] waffle and select 1 FREE waffle or pancake from our to picks.",
+        "price": 467,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.8,
+        "available": true
+      },
+      {
+        "id": 428,
+        "name": "The Belgian Club + 1 Free Delight (Dark)",
+        "description": "Buy 3 Belgian Chocomelt waffle (Dark) and get a free delight (Free Delight: kiki and oreo cream pancake or Triple Chocomelt pancake or Belgian Chocomelt waffle or maple butter waffle)",
+        "price": 467,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.9,
+        "available": true
+      },
+      {
+        "id": 429,
+        "name": "Best Of The Best",
+        "description": "Share our besties with your besties! Choose any 5 best-selling Waffle from below list for a flat price! (Naked Nutella or Triple Chocomelt or Belgian Chocomelt Milk or Belgian Chocomelt Dark or KitKat Waffle or Red Velvet).",
+        "price": 660,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.8,
+        "available": true
+      },
+      {
+        "id": 430,
+        "name": "Mini Treats",
+        "description": "Treat your tribe! Save Rs. 67 flat & enjoy Mini Waffle pack of 4 (assorted) + Mini Waffle pack of 4 (chocolate).",
+        "price": 625,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.8,
+        "available": true
+      },
+      {
+        "id": 431,
+        "name": "The WaffShake Duo",
+        "description": "Triple Chocomelt Waffle + Belgian Chocomelt Shake.",
+        "price": 346,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.8,
+        "available": true
+      },
+      {
+        "id": 432,
+        "name": "Treats For Two",
+        "description": "1 for you, 1 for me & 1 for us. Save Rs. 52 flat & enjoy Belgian Chocomelt Milk Waffle + Red Velvet Waffle + Signature Cold Coffee.",
+        "price": 410,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 5.0,
+        "available": true
+      },
+      {
+        "id": 433,
+        "name": "Mini Waffle Box of 4 - Chocoholic's",
+        "description": "Can’t Pick One? Try A Carefully Curated Assortment of our Bestselling Chocolate Favorites. Includes Naked Nutella, Belgian Chocolate (Milk), Chocolate Overload (Dark) And Dark & White Fantasy Mini Waffles In An All-In-One Combo Pack.",
+        "price": 365,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 434,
+        "name": "Mini Waffle Box of 6 - Chocoholic's",
+        "description": "Can’t Pick One? Try A Carefully Curated Assortment of our Bestselling Chocolate Favorites. Includes Naked Nutella, Belgian Chocolate (Dark), Belgian Chocolate (Milk), Kit kat, Chocolate Overload (Milk) And Dark & White Fantasy Mini Waffles In An All-In-One Combo Pack.",
+        "price": 525,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 435,
+        "name": "Mini Waffle Box of 4 - Assorted",
+        "description": "In The Mood For Variety? Try A Carefully Curated Assortment Of Some Of Our Fan Favorites. Includes Belgian Chocomelt (Milk), Almond Cocoa Butter, Red Velvet And Berry Red Velvet Mini Waffles in an All-In-One Combo Pack.",
+        "price": 365,
+        "dietary": [
+          "veg"
+        ],
+        "features": [
+          "Best Seller"
+        ],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 436,
+        "name": "Mini Waffle Box of 6 - Assorted",
+        "description": "In The Mood For Even More Variety? Try A Carefully Curated Assortment of Some of our Fan Favorites. Includes Naked Nutella, Belgian Chocomelt (Milk), Chocobite Overload (Milk), Dark & White Fantasy, Red Velvet And Berry Red Velvet Mini Waffles In An All-In-One Combo Pack.",
+        "price": 525,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 437,
+        "name": "Mini Waffle Box of 4 - Premium Assorted",
+        "description": "Experience indulgence at its finest with our newly launched Premium Mini Waffle Box of 4. Get your favourites in one box: Blueberry Cheesecake + Lotus Biscoff Cheesecake + KitKat + Belgian Milk Choco.",
+        "price": 375,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 438,
+        "name": "Mini Waffle Box of 6 - Premium Assorted",
+        "description": "Devour the ultimate indulgence with our newly launched Premium Mini Waffle Box of 6. Could you ask for more when you have Blueberry Cheesecake + Strawberry Cheesecake + Red Velvet + Berry Red Velvet + Lotus Biscoff + Kiki and Oreo, all favourite waffle in one box!",
+        "price": 525,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.9,
+        "available": true
+      },
+      {
+        "id": 439,
+        "name": "Death by Choco-rush Waffle Cake (Single Layer)",
+        "description": "Your Favourite Death By Chocolate (Single Layer) gets a new name! Signature dark Choco single layer waffle cake layered with creamy White, Milk and Dark melted Belgian Chocomelt. Triple the Choco, triple the fun! (Sorry! Our special waffle cakes do not allow for any customization. We do not provide candles or cutlery with this order)",
+        "price": 410,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 440,
+        "name": "Berry Red Velvet Waffle Cake (Single Layer)",
+        "description": "\"Original Red Velvet Single Layer Waffle Cake with Strawberry Compote + Creamy Cheesecake* filling and Melted White Choco Topped with Red Velvet Crumbs. A True Original - Enhanced! *Cheesecake flavour filling, contains spray dried cheese powder (Sorry! Our special waffle cakes do not allow for any customization. We do not provide candles or cutlery with this order)\"",
+        "price": 410,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.6,
+        "available": true
+      },
+      {
+        "id": 441,
+        "name": "Kiki & Oreo Waffle Cake (Single Layer)",
+        "description": "Signature black velvet single layer waffle cake layered thick with Kiki spread and topped with Crushed Oreos. A universal favorite! (Sorry! Our special waffle cakes do not allow for any customization. We do not provide candles or cutlery with this order)",
+        "price": 410,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.2,
+        "available": true
+      },
+      {
+        "id": 442,
+        "name": "Almond Brownie Waffle Cake (Single Layer)",
+        "description": "The Best of two Worlds In A Single Layer Cake - A Waffle And A Brownie with Deliciously Rich Melted Choco and Almonds. Your Doorway To Heaven! (Sorry! Our special waffle cakes do not allow for any customization. We do not provide candles or cutlery with this order)",
+        "price": 410,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.1,
+        "available": true
+      },
+      {
+        "id": 443,
+        "name": "Death by Choco-rush Waffle Cake (Double Layer)",
+        "description": "Your Favourite Death By Chocolate (Double Layer) gets a new name! Signature dark Choco double layer waffle cake layered inside and out with creamy White, Milk and Dark melted Belgian Chocomelt. Triple the Choco, triple the fun! (Sorry! Our special waffle cakes do not allow for any customization. We do not provide candles or cutlery with this order)",
+        "price": 625,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.8,
+        "available": true
+      },
+      {
+        "id": 444,
+        "name": "Berry Red Velvet Waffle Cake (Double Layer)",
+        "description": "\"Original Red Velvet Double Layer Waffle Cake with Strawberry Compote + Creamy Cheesecake* filling And Melted White Choco Topped With Red Velvet Crumbs. A True Original - Enhanced! *Cheesecake flavour filling, contains spray dried cheese powder (Sorry! Our special waffle cakes do not allow for any customization. We do not provide candles or cutlery with this order)\"",
+        "price": 625,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 445,
+        "name": "Kiki & Oreo Waffle Cake (Double Layer)",
+        "description": "Signature black velvet double layer waffle cake layered thick inside and out with Kiki spread and topped with Crushed Oreos. A universal favorite! (Sorry! Our special waffle cakes do not allow for any customization. We do not provide candles or cutlery with this order)",
+        "price": 625,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.5,
+        "available": true
+      },
+      {
+        "id": 446,
+        "name": "Almond Brownie Waffle Cake (Double Layer)",
+        "description": "The Best of Two Worlds In A Double Layer Cake - A Waffle And A Brownie. With Deliciously Rich Melted Choco and Almonds. Your Doorway To Heaven! (Sorry! Our special waffle cakes do not allow for any customization. We do not provide candles or cutlery with this order)",
+        "price": 625,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.1,
+        "available": true
+      },
+      {
+        "id": 447,
+        "name": "Honey Butter Waffle",
+        "description": "Classic Crispy Waffle + Warm Melted Butter and Golden Honey Drizzle an American Classic!",
+        "price": 105,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.6,
+        "available": true
+      },
+      {
+        "id": 448,
+        "name": "Maple Butter Waffle",
+        "description": "Classic Crispy Waffle + Warm Melted Butter and Maple Syrup Drizzle an American Classic!",
+        "price": 105,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.8,
+        "available": true
+      },
+      {
+        "id": 449,
+        "name": "Almond Cocoa Butter Waffle",
+        "description": "Classic Crispy Waffle + Cocoa Butter Topped with Roasted Almonds, Nutty & Delicious!",
+        "price": 185,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 450,
+        "name": "Belgian Milk Waffle",
+        "description": "Your Favourite Belgian Chocolate Milk Waffle gets a new name! Classic Crispy Waffle + Melted Belgian Milk Choco. Simplicity At Its Best!",
+        "price": 165,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 451,
+        "name": "Belgian Dark Waffle",
+        "description": "Your Favourite Belgian Chocolate Dark Waffle gets a new name! Classic Crispy Waffle + Melted Belgian Dark Choco. Darker Simplicity!",
+        "price": 165,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 5.0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Domino's Pizza",
+    "location": "Khasra 103/104/105/106/116/117/118/119, 11/12, 3rd Floor, Gomti Nagar, Lucknow",
+    "rating": 4.5,
+    "operating_hours": {
+      "mon-fri": "Opens at 11am",
+      "sat-sun": "Opens at 11am"
+    },
+    "contact": {
+      "phone": "+91919076667905"
+    },
+    "menu": [
+      {
+        "id": 501,
+        "name": "Big Big 6in1 Pizza - Veg",
+        "description": "6 Veggie Blockbusters in 1 Epic Pan Pizza: Corn N Cheese, Peppy Paneer, Farmhouse, Mexican Green Wave, Veg Paradise, Margherita",
+        "price": 799,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.8,
+        "available": true
+      },
+      {
+        "id": 502,
+        "name": "Big Big 6in1 Pizza - Non Veg",
+        "description": "6 Chicken Bangers in 1 Epic Pan Pizza: Pepper Barbeque Chicken, Chicken Dominator, Chicken Fiesta, Spiced Double Chicken, Chicken Pepperoni, Chicken Golden Delight",
+        "price": 899,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 503,
+        "name": "Peppy Paneer Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Flavorful trio of juicy paneer, crisp capsicum & spicy red paprika",
+        "price": 358,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.7,
+        "available": true
+      },
+      {
+        "id": 504,
+        "name": "Farmhouse Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with combination of onion, capsicum, tomato & grilled mushroom",
+        "price": 348,
+        "dietary": [
+          "veg"
+        ],
+        "features": [
+          "Best Seller"
+        ],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 505,
+        "name": "Veggie Paradise Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Golden corn, black olives, capsicum & red paprika",
+        "price": 358,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.7,
+        "available": true
+      },
+      {
+        "id": 506,
+        "name": "Margherita Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with delight of 100% real mozzarella cheese",
+        "price": 188,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 5.0,
+        "available": true
+      },
+      {
+        "id": 507,
+        "name": "Spiced Double Chicken Pizza",
+        "description": "Molten Cheese Indulgence with combination of Pepper Barbecue Chicken & Peri Peri Chicken for Chicken lovers",
+        "price": 408,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.8,
+        "available": true
+      },
+      {
+        "id": 508,
+        "name": "Mexican Green Wave Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno",
+        "price": 358,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 509,
+        "name": "Pepper Barbecue Chicken Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Pepper Barbecue chicken for that extra zing",
+        "price": 338,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.7,
+        "available": true
+      },
+      {
+        "id": 510,
+        "name": "Indi Tandoori Paneer Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with spicy tandoori paneer, capsicum, red paprika & mint mayo",
+        "price": 418,
+        "dietary": [
+          "veg"
+        ],
+        "features": [
+          "Best Seller"
+        ],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 511,
+        "name": "Indi Chicken Tikka Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with wholesome flavour of tandoori masala topped with Chicken tikka, onion, red paprika & mint mayo",
+        "price": 478,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.7,
+        "available": true
+      },
+      {
+        "id": 512,
+        "name": "Double Cheese Margherita Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with loaded delight of 100% real mozzarella cheese",
+        "price": 298,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 5.0,
+        "available": true
+      },
+      {
+        "id": 513,
+        "name": "Cheese n Corn Cheese Burst",
+        "description": "Molten Cheese Indulgence with a delectable combination of sweet & juicy golden corn",
+        "price": 298,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.2,
+        "available": true
+      },
+      {
+        "id": 514,
+        "name": "Chicken Golden Delight Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Double pepper Barbecue chicken, golden corn and extra cheese",
+        "price": 398,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 515,
+        "name": "Chicken Fiesta Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Grilled chicken rashers, peri-peri chicken, onion & capsicum",
+        "price": 428,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.8,
+        "available": true
+      },
+      {
+        "id": 516,
+        "name": "Fresh Veggie Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with combination of onion & capsicum",
+        "price": 308,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.8,
+        "available": true
+      },
+      {
+        "id": 517,
+        "name": "Chicken Pepperoni Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with American classic flavored Chicken Pepperoni, topped with extra cheese",
+        "price": 468,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.9,
+        "available": true
+      },
+      {
+        "id": 518,
+        "name": "Achari Do Pyaza Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with tangy & spicy achari flavours on a super cheesy onion pizza",
+        "price": 288,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.2,
+        "available": true
+      },
+      {
+        "id": 519,
+        "name": "The 5 Chicken Feast Cheese Burst",
+        "description": "Molten Cheese Indulgence Loaded with 5 different Chicken toppings - grilled Chicken Rashers, Chicken MeatBalls, Chicken Tikka, herby Chicken Sausage & Chicken Keema",
+        "price": 478,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 520,
+        "name": "Chicken Sausage Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with American classic herbed chicken sausage",
+        "price": 298,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 5.0,
+        "available": true
+      },
+      {
+        "id": 521,
+        "name": "Big Big 6in1 Pizza - Veg",
+        "description": "6 Veggie Blockbusters in 1 Epic Pan Pizza: Corn N Cheese, Peppy Paneer, Farmhouse, Mexican Green Wave, Veg Paradise, Margherita",
+        "price": 799,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.9,
+        "available": true
+      },
+      {
+        "id": 522,
+        "name": "Big Big 6in1 Pizza - Non Veg",
+        "description": "6 Chicken Bangers in 1 Epic Pan Pizza: Pepper Barbeque Chicken, Chicken Dominator, Chicken Fiesta, Spiced Double Chicken, Chicken Pepperoni, Chicken Golden Delight",
+        "price": 899,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 523,
+        "name": "Peppy Paneer Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Flavorful trio of juicy paneer, crisp capsicum & spicy red paprika",
+        "price": 358,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 524,
+        "name": "Farmhouse Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with combination of onion, capsicum, tomato & grilled mushroom",
+        "price": 348,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.3,
+        "available": true
+      },
+      {
+        "id": 525,
+        "name": "Veggie Paradise Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Golden corn, black olives, capsicum & red paprika",
+        "price": 358,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 526,
+        "name": "Margherita Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with delight of 100% real mozzarella cheese",
+        "price": 188,
+        "dietary": [
+          "veg"
+        ],
+        "features": [
+          "Best Seller"
+        ],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 527,
+        "name": "Spiced Double Chicken Pizza",
+        "description": "Molten Cheese Indulgence with combination of Pepper Barbecue Chicken & Peri Peri Chicken for Chicken lovers",
+        "price": 408,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.5,
+        "available": true
+      },
+      {
+        "id": 528,
+        "name": "Mexican Green Wave Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno",
+        "price": 358,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 5.0,
+        "available": true
+      },
+      {
+        "id": 529,
+        "name": "Pepper Barbecue Chicken Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Pepper Barbecue chicken for that extra zing",
+        "price": 338,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 530,
+        "name": "Indi Tandoori Paneer Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with spicy tandoori paneer, capsicum, red paprika & mint mayo",
+        "price": 418,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 531,
+        "name": "Indi Chicken Tikka Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with wholesome flavour of tandoori masala topped with Chicken tikka, onion, red paprika & mint mayo",
+        "price": 478,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 532,
+        "name": "Double Cheese Margherita Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with loaded delight of 100% real mozzarella cheese",
+        "price": 298,
+        "dietary": [
+          "veg"
+        ],
+        "features": [
+          "Best Seller"
+        ],
+        "rating": 4.0,
+        "available": true
+      },
+      {
+        "id": 533,
+        "name": "Cheese n Corn Cheese Burst",
+        "description": "Molten Cheese Indulgence with a delectable combination of sweet & juicy golden corn",
+        "price": 298,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.8,
+        "available": true
+      },
+      {
+        "id": 534,
+        "name": "Chicken Golden Delight Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Double pepper Barbecue chicken, golden corn and extra cheese",
+        "price": 398,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 535,
+        "name": "Chicken Fiesta Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Grilled chicken rashers, peri-peri chicken, onion & capsicum",
+        "price": 428,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 536,
+        "name": "Fresh Veggie Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with combination of onion & capsicum",
+        "price": 308,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.9,
+        "available": true
+      },
+      {
+        "id": 537,
+        "name": "Chicken Pepperoni Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with American classic flavored Chicken Pepperoni, topped with extra cheese",
+        "price": 468,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.8,
+        "available": true
+      },
+      {
+        "id": 538,
+        "name": "Achari Do Pyaza Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with tangy & spicy achari flavours on a super cheesy onion pizza",
+        "price": 288,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.2,
+        "available": true
+      },
+      {
+        "id": 539,
+        "name": "The 5 Chicken Feast Cheese Burst",
+        "description": "Molten Cheese Indulgence Loaded with 5 different Chicken toppings - grilled Chicken Rashers, Chicken MeatBalls, Chicken Tikka, herby Chicken Sausage & Chicken Keema",
+        "price": 478,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 5.0,
+        "available": true
+      },
+      {
+        "id": 540,
+        "name": "Chicken Sausage Cheese Burst",
+        "description": "Now in 3 New Flavours - Molten Cheese Indulgence with American classic herbed chicken sausage",
+        "price": 298,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.8,
+        "available": true
+      },
+      {
+        "id": 541,
+        "name": "Fiery Jalapeno & Paprika Pizza",
+        "description": "Molten Cheese Indulgence with jalapeno & red paprika toppings along with spicy peri peri sauce",
+        "price": 278,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 542,
+        "name": "Fiery Sausage & Paprika Pizza",
+        "description": "Molten Cheese Indulgence with spicy & herby chicken sausage and red paprika toppings along with spicy peri peri sauce",
+        "price": 348,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.0,
+        "available": true
+      },
+      {
+        "id": 543,
+        "name": "Blazing Onion & Paprika Pizza",
+        "description": "Molten Cheese Indulgence with onion & red paprika toppings along with spicy peri peri sauce",
+        "price": 278,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 544,
+        "name": "Blazing Chicken & Paprika Pizza",
+        "description": "Molten Cheese Indulgence with a combination of chicken keema & red paprika toppings along with spicy peri peri sauce",
+        "price": 348,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.9,
+        "available": true
+      },
+      {
+        "id": 545,
+        "name": "Spicy Boneless Thighs",
+        "description": "Crispy, juicy boneless thighs seasoned with flavorful chili for a delicious spicy kick. Crunchy on the outside, tender on the inside!",
+        "price": 159,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 5.0,
+        "available": true
+      },
+      {
+        "id": 546,
+        "name": "Mini Garlic Cheesiken Rice",
+        "description": "Juicy Chicken| Creamy Garlic Sauce| Molten Cheese with Rice & Veggies - Onion, Jalapeno & Capsicum",
+        "price": 119,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.4,
+        "available": true
+      },
+      {
+        "id": 547,
+        "name": "Mini Tangy Tomato Cheesiken Rice",
+        "description": "Tender Chicken| Zesty Tomato Sauce| Molten Cheese with Rice & Veggies - Onion, Paprika & Capsicum",
+        "price": 119,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 548,
+        "name": "Mini Hot & Fiery Cheesiken Rice",
+        "description": "Tender Chicken| Guntur Chilli Sauce| Molten Cheese with Rice & Veggies - Onion, Olive & Capsicum",
+        "price": 119,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 549,
+        "name": "Spicy Chicken Pops",
+        "description": "Crispy Chicken Popcorn| Bold Chilli sprinkle| Fiery burst of flavour",
+        "price": 119,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 550,
+        "name": "Spicy Chicken Meatballs",
+        "description": "Tender & Juicy Meat Balls| Guntur Chilli Seasoning | Bliss for Chicken Lovers",
+        "price": 119,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 551,
+        "name": "Tangy Tomato Cheesiken",
+        "description": "Tender Chicken| Tangy Tomato Sauce| Molten Cheese| Crunchy Veggies - Onion, Paprika & Capsicum",
+        "price": 169,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 552,
+        "name": "Garlic Cheesiken",
+        "description": "Tender Chicken| Creamy Garlic Sauce| Molten cheese| Crunchy Veggies - Onion, Paprika & Capsicum",
+        "price": 169,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 553,
+        "name": "Hot & Fiery Cheesiken",
+        "description": "Juicy Chicken| Spicy Guntur Chilli Sauce | Molten Cheese with Veggies - Onion, Black Olives & Capsicum",
+        "price": 169,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 554,
+        "name": "Tangy Tomato Cheesiken Rice",
+        "description": "Tender Chicken| Zesty Tomato Sauce| Molten Cheese with Rice & Veggies - Onion, Paprika & Capsicum",
+        "price": 219,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 555,
+        "name": "Garlic Cheesiken Rice",
+        "description": "Juicy Chicken| Creamy Garlic Sauce| Molten Cheese with Rice & Veggies - Onion, Jalapeno & Capsicum",
+        "price": 219,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 556,
+        "name": "Hot & Fiery Cheesiken Rice",
+        "description": "Tender Chicken| Guntur Chilli Sauce| Molten Cheese with Rice & Veggies - Onion, Olive & Capsicum",
+        "price": 219,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 557,
+        "name": "Peri Peri Dip",
+        "description": "A spicy and tangy dip with bold peri peri flavors!",
+        "price": 37,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.2,
+        "available": true
+      },
+      {
+        "id": 558,
+        "name": "Cream and Onion Dip",
+        "description": "A rich and creamy dip with a delicious blend of onion and spices, inspired by international flavors!",
+        "price": 37,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 559,
+        "name": "Korean Sweet Chilli Dip",
+        "description": "A sweet and spicy dip inspired by bold Korean flavors!",
+        "price": 37,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 560,
+        "name": "Rich Garlic Dip",
+        "description": "A creamy dip with a rich, bold garlic flavor!",
+        "price": 37,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 561,
+        "name": "Cheese Volcano Peppy Paneer",
+        "description": "Centre loaded with Molten Cheese & topped with peppy Paneer, Capsicum & Red Paprika *Contains non-edible container under the Pizza",
+        "price": 319,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 562,
+        "name": "Cheese Volcano Farmhouse",
+        "description": "Centre loaded with Molten Cheese & topped with Onion, Capsicum, Tomato & Grilled Mushroom *Contains non-edible container under the Pizza",
+        "price": 319,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.5,
+        "available": true
+      },
+      {
+        "id": 563,
+        "name": "Cheese Volcano Veg Paradise",
+        "description": "Centre loaded with Molten Cheese & topped with Golden Corn, Black Olives, Capsicum & Red Paprika *Contains non-edible container under the Pizza",
+        "price": 319,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.8,
+        "available": true
+      },
+      {
+        "id": 564,
+        "name": "Corn & Cheese Volcano",
+        "description": "Centre loaded with Molten Cheese & topped with juicy Golden Corn *Contains non-edible container under the Pizza",
+        "price": 319,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.0,
+        "available": true
+      },
+      {
+        "id": 565,
+        "name": "Cheese Volcano BBQ Chicken",
+        "description": "Centre loaded with Molten Cheese & topped with Pepper BBQ Chicken *Contains non-edible container under the Pizza",
+        "price": 369,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.2,
+        "available": true
+      },
+      {
+        "id": 566,
+        "name": "Cheese Volcano Chicken Delight",
+        "description": "Centre loaded with Molten Cheese & topped with Pepper BBQ Chicken & Golden Corn *Contains non-edible container under the Pizza",
+        "price": 369,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 567,
+        "name": "Cheese Volcano Double Chicken",
+        "description": "Centre loaded with Molten Cheese & topped with Pepper BBQ Chicken & Peri Peri Chicken. *Contains non-edible container under the Pizza",
+        "price": 369,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.7,
+        "available": true
+      },
+      {
+        "id": 568,
+        "name": "Cheese Volcano Blazing Chicken",
+        "description": "Centre loaded with Molten Cheese & topped with Chicken Keema & Red Paprika with our spicy Peri Peri Sauce *Contains non-edible container under the Pizza",
+        "price": 369,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 569,
+        "name": "Special Party for 4 (Veg) @Rs. 180 off",
+        "description": "Medium Peppy Paneer + Medium Farmhouse + Garlic Bread + 2 Coke",
+        "price": 1029,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 570,
+        "name": "Pizza Party for 4 (Veg) @Rs. 180 Off",
+        "description": "Meal for 4: Regular Veg Extravaganza + Regular Indi Tandoori Paneer + Regular Farmhouse + Regular Veggie Paradise",
+        "price": 1039,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 571,
+        "name": "Party for 4 (Veg) @Rs. 130 off",
+        "description": "Meal for 4: Medium Margherita + Medium Farmhouse with Garlic Bread & 2 Coke",
+        "price": 839,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 572,
+        "name": "Extravaganza Party for 2 (Veg) @Rs. 110 off",
+        "description": "Meal for 2: Regular Veg Extravaganza + Regular Indi Tandoori Paneer with Chocolava Cake & Coke",
+        "price": 739,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.8,
+        "available": true
+      },
+      {
+        "id": 573,
+        "name": "Dominator Party for 2 (Non-Veg) @Rs. 140 off",
+        "description": "Meal for 2: Regular Non Veg Supreme + Regular Chicken Dominator with Garlic Bread & Coke",
+        "price": 829,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 574,
+        "name": "Special Party for 2 (Veg) @Rs. 105 off",
+        "description": "Meal for 2: Regular Pepper BBQ Chicken + Regular Chicken Dominator with Garlic Bread & Coke",
+        "price": 619,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.9,
+        "available": true
+      },
+      {
+        "id": 575,
+        "name": "Match Day Veg Combo @Rs. 110 off",
+        "description": "Meal for 2: Regular Veg Extravaganza + Regular Indi Tandoori Paneer with Chocolava Cake & Coke",
+        "price": 729,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.5,
+        "available": true
+      },
+      {
+        "id": 576,
+        "name": "Special Party for 2 (Non-Veg) @Rs. 115 off",
+        "description": "Meal for 2: Regular Pepper BBQ Chicken + Regular Chicken Dominator with Garlic Bread & Pepsi",
+        "price": 699,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.7,
+        "available": true
+      },
+      {
+        "id": 577,
+        "name": "Party for 2 (Non-Veg) @Rs. 85 off",
+        "description": "Regular Pepper BBQ Chicken + Regular Chicken Sausage + Garlic Bread + Coke",
+        "price": 569,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.1,
+        "available": true
+      },
+      {
+        "id": 578,
+        "name": "Party for 2 (Veg) @Rs. 75 off",
+        "description": "Regular Margherita +Regular Farmhouse + Garlic Bread + Pepsi",
+        "price": 479,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 5.0,
+        "available": true
+      },
+      {
+        "id": 579,
+        "name": "Dominator Party for 4 (Non-Veg) @Rs. 300 off",
+        "description": "Medium Non Veg Supreme + Medium Chicken Dominator + Garlic Bread + 2 Pepsi",
+        "price": 1239,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 580,
+        "name": "Meal for 2: Pepper BBQ Chicken & Spiced Double Chicken",
+        "description": "Regular Pepper BBQ & Regular Spiced Double Chicken + Garlic Bread + Coke",
+        "price": 639,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 581,
+        "name": "Meal for 4: Veg Extravaganza & Indi Tandoori Paneer",
+        "description": "Medium Veg Extravaganza & Medium Indi Tandoori Paneer+Garlic Bread + 2 Coke",
+        "price": 1179,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 582,
+        "name": "Choco Lava Cake + Beverage",
+        "description": "Get the indulgent Choco Lava Cake & Coke for just 149",
+        "price": 149,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 2.8,
+        "available": true
+      },
+      {
+        "id": 583,
+        "name": "Spicy Non Veg Combo @ Rs. 95 Off",
+        "description": "Reg Blazing ChK & Paprika + Reg Fiery Sausage & Paprika + GB + Coke",
+        "price": 609,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 584,
+        "name": "Meal for 4: Margherita & Peppy Paneer",
+        "description": "Medium Margherita + Medium Peppy Paneer + Garlic Bread + 2 Coke",
+        "price": 809,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 585,
+        "name": "Meal for 2: Farmhouse & Veg Extravaganza",
+        "description": "Regular Farmhouse & Regular Veg Extravaganza + Garlic Bread+ Coke",
+        "price": 629,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.1,
+        "available": true
+      },
+      {
+        "id": 586,
+        "name": "Garlic Breadsticks + Beverage",
+        "description": "Enjoy the all time favourite Garlic Breadsticks with Coke",
+        "price": 149,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Barkaas Indo Arabic Restaurant",
+    "location": "Shop B/401, 2nd Floor, Sahara Plaza, Gomti Nagar, Lucknow",
+    "rating": 4.4,
+    "operating_hours": {
+      "mon-fri": "Opens at 12:15pm",
+      "sat-sun": "Opens at 12:15pm"
+    },
+    "contact": {
+      "phone": "+916390777000"
+    },
+    "menu": [
+      {
+        "id": 601,
+        "name": "Chicken Ashina",
+        "description": "[Serves 2] (Barkaas Special) Roasted Chicken drumsticks cooked with chop onion and tomato gravy & cream, can be customized.",
+        "price": 441,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 602,
+        "name": "Balti Mutton",
+        "description": "Tender mutton cooked with chop onion and tangy tomato gravy and other herbs\\r",
+        "price": 545,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.0,
+        "available": true
+      },
+      {
+        "id": 603,
+        "name": "Rara Mutton",
+        "description": "Tender mutton cooked in thick curry base & yoghurt flavored with hints of Cardamom and red chilli.",
+        "price": 454,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.8,
+        "available": true
+      },
+      {
+        "id": 604,
+        "name": "Rara Chicken",
+        "description": "Chicken cooked in thick curry base & yoghurt flavored with hints of Cardamom & red chilli.",
+        "price": 441,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 605,
+        "name": "Palak Gosh (Pakistani Mutton)",
+        "description": "[Serves 2] Originated from Pakistan and East India, tender Mutton cooked thick palak gravy and other spices.",
+        "price": 545,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.2,
+        "available": true
+      },
+      {
+        "id": 606,
+        "name": "Tawa Mutton Masala",
+        "description": "Boneless Tender lamb pieces cooked to perfection in Onion gravy and Indian spices.",
+        "price": 545,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 607,
+        "name": "ButterChicken",
+        "description": "[Serves 2] Roasted chicken pieces cooked to perfection in Tangy tomato gravy and loads of butter and cream.",
+        "price": 454,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 608,
+        "name": "Barkaas Spl Fish Masala",
+        "description": "[Serves 2] Boneless Fish cubes marinated with Indian spices and roasted and cooked in Onion and cashew gravy base.",
+        "price": 545,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.2,
+        "available": true
+      },
+      {
+        "id": 609,
+        "name": "Mutton Seekh Masala",
+        "description": "Minced Lamb mixed with hints of ginger garlic and other spices and grilled in tandoor and cooked in onion chop masala and tangy tamato gravy.\\r",
+        "price": 545,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 610,
+        "name": "Prawn Goan Curry",
+        "description": "[Serves 2] Tender shrimps cooked in Coconut mil and yellow gravy with Indian spices.",
+        "price": 545,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.2,
+        "available": true
+      },
+      {
+        "id": 611,
+        "name": "Chicken Lababdar",
+        "description": "Tender boneless chicken and bell pepper cooked with Onion Gravy base and loads of butter and fresh cream.\\r",
+        "price": 545,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 612,
+        "name": "Prawn Tikka Masala",
+        "description": "Tender Prawns marinated in Indian spices roasted and cooked in Tangy Tomato base.\\r",
+        "price": 545,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 613,
+        "name": "Chicken Masala",
+        "description": "Tender chicken cooked with brown curry base Indian Masalas and Herb Hyderabadi style.\\r",
+        "price": 441,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 614,
+        "name": "Chicken Adaraki",
+        "description": "[Serves 2] Tender chicken cooked with hints of Garlic herb in Onion Gravy",
+        "price": 415,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 615,
+        "name": "Fish Tikka Masala",
+        "description": "Boneless \\u001Fsh cubes roasted and cooked in tangy tomato and curd base.",
+        "price": 454,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.0,
+        "available": true
+      },
+      {
+        "id": 616,
+        "name": "Murgh Bemisal",
+        "description": "Tender chicken and mushroom chunks cooked in Tangy tomato gravy, garnished with egg on top.\\r",
+        "price": 454,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.8,
+        "available": true
+      },
+      {
+        "id": 617,
+        "name": "Kadhai Paneer",
+        "description": "[Serves 2] Indian cottage cheese and bell peppers cooked in spicy Indian Masala.",
+        "price": 415,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 1.9,
+        "available": true
+      },
+      {
+        "id": 618,
+        "name": "Kadhai Chicken",
+        "description": "[Serves 2] Tender chicken cooked to perfection with Indian spices and Herbs.",
+        "price": 441,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 5.0,
+        "available": true
+      },
+      {
+        "id": 619,
+        "name": "Paneer Butter Masala",
+        "description": "Indian cottage cheese & bell peppers cooked in spicy Indian Masala and hints of Tomato gravy and loads of Butter.\\r",
+        "price": 415,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 620,
+        "name": "Dal Makhali",
+        "description": "[Serves 2] Mixture of Urad, kidney bean, chana dal stir fried with indian spices herbs and loads of butter.",
+        "price": 415,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.2,
+        "available": true
+      },
+      {
+        "id": 621,
+        "name": "Kaju Tomato",
+        "description": "Roasted Cashew nuts cooked in tomato, onion, and spices based rich and creamy sauce\\r",
+        "price": 415,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.5,
+        "available": true
+      },
+      {
+        "id": 622,
+        "name": "Panner Lababdar",
+        "description": "[Serves 2] Indian cottage cheese and bell peppers cooked in cashew & Onion based Gravy.",
+        "price": 415,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 5.0,
+        "available": true
+      },
+      {
+        "id": 623,
+        "name": "Pindi Chana Masala",
+        "description": "Chickpeas boiled and concocted with Spices and Herbs.",
+        "price": 402,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "id": 624,
+        "name": "Fatar Basal Do Pyaza(Mushroom)",
+        "description": "[Serves 2] Mushroom pieces cooked in Onion Gravy & butter, can be prepared spicy as well.",
+        "price": 389,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.6,
+        "available": true
+      },
+      {
+        "id": 625,
+        "name": "Anda khagina(Egg Bhurjee)",
+        "description": "[Serves 2] Scrambled eggs with sauteed chopped onions and hints of coriander leaves.",
+        "price": 298,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 626,
+        "name": "Dal Panhranga",
+        "description": "[Serves 2] Mixture of 5 variety Lentils cooked in perfection with India Herbs and spices.",
+        "price": 415,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 627,
+        "name": "Kandari Veg",
+        "description": "[Serves 2] Mixed Vegetable dumplings cooked in a tangy tomato gravy with fresh cream.",
+        "price": 363,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 4.0,
+        "available": true
+      },
+      {
+        "id": 628,
+        "name": "Dora Bajura Gravy (Baby Corn)",
+        "description": "Baby corn pieces cooked in Onion Gravy & butter, can be prepared spicy as well.",
+        "price": 363,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 629,
+        "name": "Methi Chaman",
+        "description": "Creamy Methi Chaman made with fresh methi leaves & freshly ground masala",
+        "price": 389,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.3,
+        "available": true
+      },
+      {
+        "id": 630,
+        "name": "Palak Paneer",
+        "description": "Indian cottage cheese and bell peppers cooked with Palak Gravy.",
+        "price": 415,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 631,
+        "name": "Yellow Dal Tadka",
+        "description": "Indian Lentils cooked to perfection with concoction of spices in oil and mixed well.",
+        "price": 415,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 3.4,
+        "available": true
+      },
+      {
+        "id": 632,
+        "name": "Arabian Mix Mandi",
+        "description": "Gigantic Barkaas Thali served with Aromatic rice & varieties of Meat including Fish,Mutton and Chicken\\r",
+        "price": 1949,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.3,
+        "available": true
+      },
+      {
+        "id": 633,
+        "name": "Chicken BBQ Mandi",
+        "description": "Tender chicken grilled to perfection with special Barkaas Arabic flavors & served with raita & aromatic flavoured rice.",
+        "price": 454,
+        "dietary": [
+          "veg"
+        ],
+        "features": [],
+        "rating": 4.4,
+        "available": true
+      },
+      {
+        "id": 634,
+        "name": "Chicken Fahm Mandi",
+        "description": "Tender chicken grilled to perfection with special Barkaas Arabic flavors & served with raita and aromatic flavoured rice.",
+        "price": 454,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.9,
+        "available": true
+      },
+      {
+        "id": 635,
+        "name": "Mutton Juicy Mandi",
+        "description": "Tender Mutton cooked to perfection with Barkaas secret spices and served hot.",
+        "price": 519,
+        "dietary": [
+          "non-veg"
+        ],
+        "features": [],
+        "rating": 3.8,
+        "available": true
+      }
+    ]
+  }
+]

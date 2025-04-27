@@ -1,0 +1,87 @@
+item_name,price,description,dietery,features,rating
+Big Big 6in1 Pizza - Veg,799,"6 Veggie Blockbusters in 1 Epic Pan Pizza: Corn N Cheese, Peppy Paneer, Farmhouse, Mexican Green Wave, Veg Paradise, Margherita",Veg,[],3.8
+Big Big 6in1 Pizza - Non Veg,899,"6 Chicken Bangers in 1 Epic Pan Pizza: Pepper Barbeque Chicken, Chicken Dominator, Chicken Fiesta, Spiced Double Chicken, Chicken Pepperoni, Chicken Golden Delight",Non Veg,[],4.6
+Peppy Paneer Cheese Burst,358,"Now in 3 New Flavours - Molten Cheese Indulgence with Flavorful trio of juicy paneer, crisp capsicum & spicy red paprika",Veg,[],3.7
+Farmhouse Cheese Burst,348,"Now in 3 New Flavours - Molten Cheese Indulgence with combination of onion, capsicum, tomato & grilled mushroom",Veg,['Best Seller'],4.5
+Veggie Paradise Cheese Burst,358,"Now in 3 New Flavours - Molten Cheese Indulgence with Golden corn, black olives, capsicum & red paprika",Non Veg,[],3.7
+Margherita Cheese Burst,188,Now in 3 New Flavours - Molten Cheese Indulgence with delight of 100% real mozzarella cheese,Veg,[],5.0
+Spiced Double Chicken Pizza,408,Molten Cheese Indulgence with combination of Pepper Barbecue Chicken & Peri Peri Chicken for Chicken lovers,Veg,[],3.8
+Mexican Green Wave Cheese Burst,358,"Now in 3 New Flavours - Molten Cheese Indulgence with Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno",Veg,[],4.6
+Pepper Barbecue Chicken Cheese Burst,338,Now in 3 New Flavours - Molten Cheese Indulgence with Pepper Barbecue chicken for that extra zing,Veg,[],3.7
+Indi Tandoori Paneer Cheese Burst,418,"Now in 3 New Flavours - Molten Cheese Indulgence with spicy tandoori paneer, capsicum, red paprika & mint mayo",Veg,['Best Seller'],4.5
+Indi Chicken Tikka Cheese Burst,478,"Now in 3 New Flavours - Molten Cheese Indulgence with wholesome flavour of tandoori masala topped with Chicken tikka, onion, red paprika & mint mayo",Non Veg,[],3.7
+Double Cheese Margherita Cheese Burst,298,Now in 3 New Flavours - Molten Cheese Indulgence with loaded delight of 100% real mozzarella cheese,Veg,[],5.0
+Cheese n Corn Cheese Burst,298,Molten Cheese Indulgence with a delectable combination of sweet & juicy golden corn,Non Veg,[],4.2
+Chicken Golden Delight Cheese Burst,398,"Now in 3 New Flavours - Molten Cheese Indulgence with Double pepper Barbecue chicken, golden corn and extra cheese",Veg,[],4.3
+Chicken Fiesta Cheese Burst,428,"Now in 3 New Flavours - Molten Cheese Indulgence with Grilled chicken rashers, peri-peri chicken, onion & capsicum",Non Veg,[],4.8
+Fresh Veggie Cheese Burst,308,Now in 3 New Flavours - Molten Cheese Indulgence with combination of onion & capsicum,Veg,[],4.8
+Chicken Pepperoni Cheese Burst,468,"Now in 3 New Flavours - Molten Cheese Indulgence with American classic flavored Chicken Pepperoni, topped with extra cheese",Veg,[],4.9
+Achari Do Pyaza Cheese Burst,288,Now in 3 New Flavours - Molten Cheese Indulgence with tangy & spicy achari flavours on a super cheesy onion pizza,Non Veg,[],3.2
+The 5 Chicken Feast Cheese Burst,478,"Molten Cheese Indulgence Loaded with 5 different Chicken toppings - grilled Chicken Rashers, Chicken MeatBalls, Chicken Tikka, herby Chicken Sausage & Chicken Keema",Non Veg,[],4.7
+Chicken Sausage Cheese Burst,298,Now in 3 New Flavours - Molten Cheese Indulgence with American classic herbed chicken sausage,Veg,[],5.0
+Big Big 6in1 Pizza - Veg,799,"6 Veggie Blockbusters in 1 Epic Pan Pizza: Corn N Cheese, Peppy Paneer, Farmhouse, Mexican Green Wave, Veg Paradise, Margherita",Non Veg,[],4.9
+Big Big 6in1 Pizza - Non Veg,899,"6 Chicken Bangers in 1 Epic Pan Pizza: Pepper Barbeque Chicken, Chicken Dominator, Chicken Fiesta, Spiced Double Chicken, Chicken Pepperoni, Chicken Golden Delight",Veg,[],4.7
+Peppy Paneer Cheese Burst,358,"Now in 3 New Flavours - Molten Cheese Indulgence with Flavorful trio of juicy paneer, crisp capsicum & spicy red paprika",Non Veg,[],4.6
+Farmhouse Cheese Burst,348,"Now in 3 New Flavours - Molten Cheese Indulgence with combination of onion, capsicum, tomato & grilled mushroom",Non Veg,[],3.3
+Veggie Paradise Cheese Burst,358,"Now in 3 New Flavours - Molten Cheese Indulgence with Golden corn, black olives, capsicum & red paprika",Veg,[],4.5
+Margherita Cheese Burst,188,Now in 3 New Flavours - Molten Cheese Indulgence with delight of 100% real mozzarella cheese,Veg,['Best Seller'],4.6
+Spiced Double Chicken Pizza,408,Molten Cheese Indulgence with combination of Pepper Barbecue Chicken & Peri Peri Chicken for Chicken lovers,Non Veg,[],3.5
+Mexican Green Wave Cheese Burst,358,"Now in 3 New Flavours - Molten Cheese Indulgence with Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno",Veg,[],5.0
+Pepper Barbecue Chicken Cheese Burst,338,Now in 3 New Flavours - Molten Cheese Indulgence with Pepper Barbecue chicken for that extra zing,Veg,[],4.7
+Indi Tandoori Paneer Cheese Burst,418,"Now in 3 New Flavours - Molten Cheese Indulgence with spicy tandoori paneer, capsicum, red paprika & mint mayo",Veg,[],4.7
+Indi Chicken Tikka Cheese Burst,478,"Now in 3 New Flavours - Molten Cheese Indulgence with wholesome flavour of tandoori masala topped with Chicken tikka, onion, red paprika & mint mayo",Veg,[],4.5
+Double Cheese Margherita Cheese Burst,298,Now in 3 New Flavours - Molten Cheese Indulgence with loaded delight of 100% real mozzarella cheese,Veg,['Best Seller'],4.0
+Cheese n Corn Cheese Burst,298,Molten Cheese Indulgence with a delectable combination of sweet & juicy golden corn,Non Veg,[],4.8
+Chicken Golden Delight Cheese Burst,398,"Now in 3 New Flavours - Molten Cheese Indulgence with Double pepper Barbecue chicken, golden corn and extra cheese",Veg,[],4.5
+Chicken Fiesta Cheese Burst,428,"Now in 3 New Flavours - Molten Cheese Indulgence with Grilled chicken rashers, peri-peri chicken, onion & capsicum",Non Veg,[],4.6
+Fresh Veggie Cheese Burst,308,Now in 3 New Flavours - Molten Cheese Indulgence with combination of onion & capsicum,Veg,[],4.9
+Chicken Pepperoni Cheese Burst,468,"Now in 3 New Flavours - Molten Cheese Indulgence with American classic flavored Chicken Pepperoni, topped with extra cheese",Non Veg,[],4.8
+Achari Do Pyaza Cheese Burst,288,Now in 3 New Flavours - Molten Cheese Indulgence with tangy & spicy achari flavours on a super cheesy onion pizza,Veg,[],4.2
+The 5 Chicken Feast Cheese Burst,478,"Molten Cheese Indulgence Loaded with 5 different Chicken toppings - grilled Chicken Rashers, Chicken MeatBalls, Chicken Tikka, herby Chicken Sausage & Chicken Keema",Veg,[],5.0
+Chicken Sausage Cheese Burst,298,Now in 3 New Flavours - Molten Cheese Indulgence with American classic herbed chicken sausage,Non Veg,[],4.8
+Fiery Jalapeno & Paprika Pizza,278,Molten Cheese Indulgence with jalapeno & red paprika toppings along with spicy peri peri sauce,Non Veg,[],4.6
+Fiery Sausage & Paprika Pizza,348,Molten Cheese Indulgence with spicy & herby chicken sausage and red paprika toppings along with spicy peri peri sauce,Veg,[],4.0
+Blazing Onion & Paprika Pizza,278,Molten Cheese Indulgence with onion & red paprika toppings along with spicy peri peri sauce,Non Veg,[],4.5
+Blazing Chicken & Paprika Pizza,348,Molten Cheese Indulgence with a combination of chicken keema & red paprika toppings along with spicy peri peri sauce,Veg,[],4.9
+Spicy Boneless Thighs,159,"Crispy, juicy boneless thighs seasoned with flavorful chili for a delicious spicy kick. Crunchy on the outside, tender on the inside!",Non Veg,[],5.0
+Mini Garlic Cheesiken Rice,119,"Juicy Chicken| Creamy Garlic Sauce| Molten Cheese with Rice & Veggies - Onion, Jalapeno & Capsicum",Non Veg,[],3.4
+Mini Tangy Tomato Cheesiken Rice,119,"Tender Chicken| Zesty Tomato Sauce| Molten Cheese with Rice & Veggies - Onion, Paprika & Capsicum",Veg,[],4.3
+Mini Hot & Fiery Cheesiken Rice,119,"Tender Chicken| Guntur Chilli Sauce| Molten Cheese with Rice & Veggies - Onion, Olive & Capsicum",Non Veg,[],4.5
+Spicy Chicken Pops,119,Crispy Chicken Popcorn| Bold Chilli sprinkle| Fiery burst of flavour,Veg,[],4.7
+Spicy Chicken Meatballs,119,Tender & Juicy Meat Balls| Guntur Chilli Seasoning | Bliss for Chicken Lovers,Non Veg,[],4.5
+Tangy Tomato Cheesiken,169,"Tender Chicken| Tangy Tomato Sauce| Molten Cheese| Crunchy Veggies - Onion, Paprika & Capsicum",Non Veg,[],4.5
+Garlic Cheesiken,169,"Tender Chicken| Creamy Garlic Sauce| Molten cheese| Crunchy Veggies - Onion, Paprika & Capsicum",Non Veg,[],4.5
+Hot & Fiery Cheesiken,169,"Juicy Chicken| Spicy Guntur Chilli Sauce | Molten Cheese with Veggies - Onion, Black Olives & Capsicum",Non Veg,[],4.6
+Tangy Tomato Cheesiken Rice,219,"Tender Chicken| Zesty Tomato Sauce| Molten Cheese with Rice & Veggies - Onion, Paprika & Capsicum",Non Veg,[],4.4
+Garlic Cheesiken Rice,219,"Juicy Chicken| Creamy Garlic Sauce| Molten Cheese with Rice & Veggies - Onion, Jalapeno & Capsicum",Non Veg,[],4.7
+Hot & Fiery Cheesiken Rice,219,"Tender Chicken| Guntur Chilli Sauce| Molten Cheese with Rice & Veggies - Onion, Olive & Capsicum",Non Veg,[],4.5
+Peri Peri Dip,37.14,A spicy and tangy dip with bold peri peri flavors!,Non Veg,[],4.2
+Cream and Onion Dip,37.14,"A rich and creamy dip with a delicious blend of onion and spices, inspired by international flavors!",Non Veg,[],4.7
+Korean Sweet Chilli Dip,37.14,A sweet and spicy dip inspired by bold Korean flavors!,Non Veg,[],4.5
+Rich Garlic Dip,37.14,"A creamy dip with a rich, bold garlic flavor!",Non Veg,[],4.4
+Cheese Volcano Peppy Paneer,319,"Centre loaded with Molten Cheese & topped with peppy Paneer, Capsicum & Red Paprika *Contains non-edible container under the Pizza",Non Veg,[],4.6
+Cheese Volcano Farmhouse,319,"Centre loaded with Molten Cheese & topped with Onion, Capsicum, Tomato & Grilled Mushroom *Contains non-edible container under the Pizza",Non Veg,[],3.5
+Cheese Volcano Veg Paradise,319,"Centre loaded with Molten Cheese & topped with Golden Corn, Black Olives, Capsicum & Red Paprika *Contains non-edible container under the Pizza",Veg,[],4.8
+Corn & Cheese Volcano,319,Centre loaded with Molten Cheese & topped with juicy Golden Corn *Contains non-edible container under the Pizza,Veg,[],4.0
+Cheese Volcano BBQ Chicken,369,Centre loaded with Molten Cheese & topped with Pepper BBQ Chicken *Contains non-edible container under the Pizza,Veg,[],4.2
+Cheese Volcano Chicken Delight,369,Centre loaded with Molten Cheese & topped with Pepper BBQ Chicken & Golden Corn *Contains non-edible container under the Pizza,Veg,[],4.3
+Cheese Volcano Double Chicken,369,Centre loaded with Molten Cheese & topped with Pepper BBQ Chicken & Peri Peri Chicken. *Contains non-edible container under the Pizza,Veg,[],3.7
+Cheese Volcano Blazing Chicken,369,Centre loaded with Molten Cheese & topped with Chicken Keema & Red Paprika with our spicy Peri Peri Sauce *Contains non-edible container under the Pizza,Veg,[],4.5
+Special Party for 4 (Veg) @Rs. 180 off,1029,Medium Peppy Paneer + Medium Farmhouse + Garlic Bread + 2 Coke,Veg,[],4.5
+Pizza Party for 4 (Veg) @Rs. 180 Off,1039,Meal for 4: Regular Veg Extravaganza + Regular Indi Tandoori Paneer + Regular Farmhouse + Regular Veggie Paradise,Veg,[],4.5
+Party for 4 (Veg) @Rs. 130 off,839,Meal for 4: Medium Margherita + Medium Farmhouse with Garlic Bread & 2 Coke,Non Veg,[],4.7
+Extravaganza Party for 2 (Veg) @Rs. 110 off,739,Meal for 2: Regular Veg Extravaganza + Regular Indi Tandoori Paneer with Chocolava Cake & Coke,Non Veg,[],4.8
+Dominator Party for 2 (Non-Veg) @Rs. 140 off,829,Meal for 2: Regular Non Veg Supreme + Regular Chicken Dominator with Garlic Bread & Coke,Non Veg,[],4.5
+Special Party for 2 (Veg) @Rs. 105 off,619,Meal for 2: Regular Pepper BBQ Chicken + Regular Chicken Dominator with Garlic Bread & Coke,Non Veg,[],3.9
+Match Day Veg Combo @Rs. 110 off,729,Meal for 2: Regular Veg Extravaganza + Regular Indi Tandoori Paneer with Chocolava Cake & Coke,Veg,[],4.5
+Special Party for 2 (Non-Veg) @Rs. 115 off,699,Meal for 2: Regular Pepper BBQ Chicken + Regular Chicken Dominator with Garlic Bread & Pepsi,Veg,[],3.7
+Party for 2 (Non-Veg) @Rs. 85 off,569,Regular Pepper BBQ Chicken + Regular Chicken Sausage + Garlic Bread + Coke,Veg,[],4.1
+Party for 2 (Veg) @Rs. 75 off,479,Regular Margherita +Regular Farmhouse + Garlic Bread + Pepsi,Veg,[],5.0
+Dominator Party for 4 (Non-Veg) @Rs. 300 off,1239,Medium Non Veg Supreme + Medium Chicken Dominator + Garlic Bread + 2 Pepsi,Non Veg,[],4.3
+Meal for 2: Pepper BBQ Chicken & Spiced Double Chicken,639,Regular Pepper BBQ & Regular Spiced Double Chicken + Garlic Bread + Coke,Veg,[],4.4
+Meal for 4: Veg Extravaganza & Indi Tandoori Paneer,1179,Medium Veg Extravaganza & Medium Indi Tandoori Paneer+Garlic Bread + 2 Coke,Veg,[],4.7
+Choco Lava Cake + Beverage,149,Get the indulgent Choco Lava Cake & Coke for just 149,Non Veg,[],2.8
+Spicy Non Veg Combo @ Rs. 95 Off,609,Reg Blazing ChK & Paprika + Reg Fiery Sausage & Paprika + GB + Coke,Non Veg,[],4.4
+Meal for 4: Margherita & Peppy Paneer,809,Medium Margherita + Medium Peppy Paneer + Garlic Bread + 2 Coke,Veg,[],4.7
+Meal for 2: Farmhouse & Veg Extravaganza,629,Regular Farmhouse & Regular Veg Extravaganza + Garlic Bread+ Coke,Non Veg,[],4.1
+Garlic Breadsticks + Beverage,149,Enjoy the all time favourite Garlic Breadsticks with Coke,Non Veg,[],4.7

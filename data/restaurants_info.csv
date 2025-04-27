@@ -1,0 +1,7 @@
+restaurant_name,restaurant_location,phone_number,opening_hours,rating,menu_csv
+Bikkgane Biryani,"Shop 0110, Ground Floor, DLF My Pad, Vibhuti Khand, Nagar Nigam Food Safety Zone-14, Gomti Nagar, Lucknow",+919120130648,Opens at 11:30am,-,Bikkgane_Biryani.csv
+Mashi Biryani World,"Laxmi Market, Near Railway Crossing, Patelpuram, Gomti Nagar, Lucknow",+917843888880,Opens at 11am,4.0,Mashi_Biryani_World.csv
+McDonald's,"Ground Floor, Fun Republic Mall, Gomti Nagar, Lucknow",+919919990586,Opens at 11am,4.1,McDonald_s.csv
+Belgium Waffle,"Shop 9, Lalji Tandon Marg, Chowk, Lucknow",+919519527711,Opens at 12noon,-,Belgium_Waffle.csv
+Domino's Pizza,"Khasra 103/104/105/106/116/117/118/119, 11/12, 3rd Floor, Gomti Nagar, Lucknow",+91919076667905,Opens at 11am,-,Domino_s_Pizza.csv
+Barkaas Indo Arabic Restaurant,"Shop B/401, 2nd Floor, Sahara Plaza, Gomti Nagar, Lucknow",+916390777000,Opens at 12:15pm,4.4,Barkaas_Indo_Arabic_Restaurant.csv

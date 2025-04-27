@@ -1,0 +1,79 @@
+item_name,price,description,dietery,features,rating
+Party For 2 To 3,899,2 Biryanis (500ml Bowls) + 1 starter (full portion) + 2 Raita (100ml) + 2 Gulab Jamun + 1 Coke (475ml),Veg,[],4.2
+Party For 4 To 6,1699,4 Biryanis (500ml Bowls) + 2 starter (full portion) + 2 Salan (100ml) + 1 Raita (300ml) + 4 Gulab Jamun + 2 Coke (475ml),Non Veg,[],4.5
+Party For 8 To 10,3299,4 Biryanis (750ml ) + 4 starter (full portion) + Salan (300ml) + 2 Raita (300ml) + 8 Gulab Jamun + 4 Coke (475ml),Non Veg,[],4.5
+Handi Party For 4 To 6,2499,2 Handi Biryani (1 kg) + 2 starter (full portion) + 2 Salan (100ml) + 1 Raita (300ml) + 4 Gulab Jamun + 2 Coke (475ml),Non Veg,[],4.2
+Starter Pack For 2,399,1 starter (full portion) + 1 Onion Salad (100ml) + 1 Coke (475ml),Non Veg,[],4.0
+Starter Pack For 4,749,2 starters (full portion) + 2 Onion Salad (100ml) + 2 Coke (475ml),Non Veg,[],4.5
+Starter Pack For 8,1399,4 starters (full portion) + 1 Onion Salad (300ml) + 4 Coke (475ml),Non Veg,[],4.2
+Starter Pack For 16,2699,8 starters (full portion) + 2 Onion Salad (300ml) + 8 Coke (475ml),Non Veg,[],3.6
+Veg Paratha Combo (serves 1),249,2 parota's + Paneer butter masala + Gulab Jamun (1pcs),Non Veg,[],4.5
+Chicken Paratha Combo (serves 1),279,2 parota's + Andhra Chicken Curry + Gulab Jamun (1pcs),Non Veg,[],4.6
+Veg Biryani Combo (serves 1),299,Veg Biryani (500ml)+ Paneer 65 (150ml)+ Gulab Jamun (1pcs),Veg,[],3.8
+Paneer Biryani Combo (serves 1),319,Paneer Biryani (500ml)+ Paneer 65 (150ml)+ Gulab Jamun (1pcs),Non Veg,[],4.2
+Pepper Paneer Biryani Combo (serves 1),319,Pepper Paneer Biryani (500ml) + Paneer 65 (150ml)+ Gulab Jamun (1pcs),Veg,[],4.8
+Chicken Biryani Combo (serves 1),339,Chicken Biryani(500ml) + Chicken 65 (150ml)+ Gulab Jamun (1pcs),Veg,[],3.6
+Pepper Chicken Biryani Combo (serves 1),339,Pepper Chicken Biryani (500ml)+ Chicken 65 (150ml)+ Gulab Jamun (1pcs),Veg,[],4.5
+Chicken 65 Biryani Combo (serves 1),339,Chicken 65 Biryani (500ml) + Andhra Chicken Fry(150ml) + Gulab Jamun (1pcs),Non Veg,[],4.9
+Veg Biryani Family Combo (serves 4),809,Veg Biryani (2*750ml) + Paneer 65 (full) + 4 Gulab Jamun (1pcs),Non Veg,[],5.0
+Paneer Biryani Family Combo (serves 4),859,Paneer Biryani (2*750ml) + Paneer 65 (full) + 4 Gulab Jamun (1pcs),Non Veg,[],4.3
+Pepper Paneer Biryani Family Combo (serves 4),859,Pepper Paneer Biryani (2*750ml)+ Paneer 65 (full)+ 4 Gulab Jamun (1pcs),Veg,[],3.7
+Chicken Dum Biryani Family Combo (serves 4),859,Chicken Biryani (2*750ml)+ Chicken 65 (full) + 4 Gulab Jamun (1pcs),Veg,[],4.2
+Pepper Chicken Biryani Family Combo (serves 4),859,Pepper Chicken Biryani (2*750ml) + Chicken 65 (full)+ 4 Gulab Jamun (1pcs),Veg,[],4.1
+Chicken 65 Biryani Family Combo (serves 4),859,Chicken 65 Biryani (2*750ml)+ Andhra Chicken Fry (Full) + 4 Gulab Jamun (1pcs),Non Veg,[],4.4
+Veg Dum Biryani Bowl - 500ml,219,"[Serves 1 value bowl with Raita] A handpicked selection of garden fresh vegetables, layered with aromatic saffron rice; delicately flavoured with herbs and blended spices.",Non Veg,[],4.5
+Kathal Dum Biryani Bowl - 500ml,239,"[Serves 1 value bowl with Raita] Savor the exquisite Kathal Dum Biryani, featuring tender jackfruit marinated in aromatic spices, layered with fragrant basmati rice, and slow-cooked to perfection. A delightful vegetarian masterpiece",Non Veg,[],4.8
+Aloo 65 Biryani Bowl - 500ml,239,"[Serves 1 value bowl with Raita] Boiled potato marinated with magic of Indian spices and herbs, slowly cooked Between the aromatic long grained Basmati rice.",Veg,[],4.6
+Pepper Paneer Biryani Bowl - 500ml,269,[Serves 1 value bowl with Raita] Classic fusion of our lipsmacking fresh grounded Pepper Paneer and Biryani Rice.,Veg,[],4.3
+Pepper Mushroom Biryani Bowl - 500ml,269,[Serves 1 value bowl with Raita] Classic fusion of our lipsmacking Pepper Mushroom and famous Hyderabadi Biryani Rice.,Veg,[],4.3
+Paneer 65 Biryani Bowl - 500ml,269,"[Serves 1 value bowl with Raita]Fresh cottage cheese marinated with all the south spices and ground masala, tossed in curry leafs and topped on Biryani rice",Veg,[],4.4
+Egg Biryani Bowl - 500ml,199,[Serves 1 value bowl with Raita] Delicately spiced and boiled eggs immersed in wholesome aromatic long grained rice.,Veg,[],3.7
+Chicken Dum Biryani Bowl - 500ml,269,"[Serves 1 value bowl with Raita and Half Egg] signature Chicken Biryani with tastefully marinated and succulent pieces of chicken cooked in a rich mix of long grain rice , delicately flavoured with authentic herbs, spices and saffron.",Veg,[],3.9
+Chicken 65 Biryani Bowl - 500ml,269,"[Serves 1 value bowl with Raita and Half Egg]Chicken cubes marinated with all the south spices and ground masala, tossed in curry leafs and topped on Biryani rice",Non Veg,[],4.6
+Special Chicken Boneless Biryani Bowl - 500ml,269,[Serves 1 value bowl with Raita and Half Egg] Coated Chicken Cubes tossed in inhouse spices serves with Biryani Rice,Non Veg,[],4.7
+Pepper Chicken Biryani Bowl - 500ml,269,[Serves 1 value bowl with Raita and half Egg] Classic fusion of our lipsmacking fresh grounded Pepper Chicken and Biryani Rice.,Non Veg,[],4.6
+Andhra Chicken Biryani Bowl - 500ml,269,"[Serves 1 value bowl with Raita and half Egg] A layered, aromatic, culinary masterpiece created with slow-cooked on the bone chicken, basmati rice, saffron, warm spices and fresh mint.",Non Veg,[],4.6
+Andhra Chicken Fry Piece Biryani Bowl - 500ml,269,"[Serves 1 value bowl with Raita and half Egg] A rich variant of Andhra Biryani first served in Vijayawada, this flavoursome dish contains chunks of chicken which are first fried before being added to aromatic basmati rice.",Non Veg,[],4.6
+Lucknowi Chicken Biryani Bowl - 500ml,239,[Serves 1 value bowl with Raita and half Egg] Lucknowi style chicken Biryani with a long grain rice,Non Veg,[],4.5
+Kolkata Chicken Biryani Bowl - 500ml,269,[Serves 1 value bowl with Raita and half Egg] Kolkata style chicken Biryani with a long grain rice,Non Veg,[],3.4
+Veg Biryani Sampler 2 Bowls,309,[Sampler bowl 300ml each serves with raita] Veg Dum Hyderabadi Biryani and Paneer 65 Hyderabadi Biryani sampler,Non Veg,[],4.1
+Bikkgane's Top Pick Chicken Biryani Sampler 2 Bowls,359,[Sampler bowl 300ml each serves with raita] Chicken Dum Hyderabadi Biryani and Chicken 65 Hyderabadi Biryani sampler,Non Veg,[],4.3
+India's Favourite Chicken Biryani Sampler 3 Bowls,389,"[Sampler bowl 300ml each serves with raita] Chicken 65 Hyderabadi Biryani , Lucknowi Chicken Biryani and Kolkata Chicken Biryani sampler",Veg,[],4.6
+Veg Dum Hyderabadi Biryani,219,"[Serves with Raita] A handpicked selection of garden fresh vegetables, layered with aromatic saffron rice; delicately flavoured with herbs and blended spices.",Non Veg,[],3.9
+Kathal Dum Hyderabadi Biryani,239,"[Serves with Raita] Savor the exquisite Kathal Dum Biryani, featuring tender jackfruit marinated in aromatic spices, layered with fragrant basmati rice, and slow-cooked to perfection. A delightful vegetarian masterpiece",Non Veg,[],4.5
+Aloo 65 Hyderabadi Biryani,239,"[Serves with Raita] Boiled potato marinated with magic of Indian spices and herbs, slowly cooked Between the aromatic long grained Basmati rice.",Veg,[],4.0
+Special Paneer Hyderabadi Biryani,269,[Serves with Raita] Fragrant long grain Basmati rice steamed with delicately spiced cottage cheese and garnished with an assortment of herbs and spices.,Veg,[],4.6
+Pepper Paneer Hyderabadi Biryani,269,[Serves with Raita] Classic fusion of our lipsmacking Pepper Panner and famous Hyderabadi Biryani Rice.,Veg,[],3.8
+Pepper Mushroom Hyderabadi Biryani,269,[Serves with Raita] Classic fusion of our lipsmacking Pepper Mushroom and famous Hyderabadi Biryani Rice.,Veg,[],4.5
+Paneer 65 Hyderabadi Biryani,269,"[Serves with Raita] Fresh cottage cheese marinated with all the spices and ground masala, layered, slow cooked with Long grain Basmati rice.",Veg,[],4.3
+Egg Hyderabadi Biryani,239,[Serves with Raita] Delicately spiced and boiled eggs immersed in wholesome aromatic long grained rice.,Veg,[],3.9
+Chicken Dum Hyderabadi Biryani,269,"[Serves with Raita] signature Chicken Biryani with tastefully marinated and succulent pieces of chicken cooked in a rich mix of long grain rice , delicately flavoured with authentic herbs, spices and saffron.",Veg,[],4.4
+Extra Masala Chicken Dum Hyderabadi Biryani,369,"[Serves with Extra masala and Raita] signature Chicken Biryani with tastefully marinated and succulent pieces of chicken cooked in a rich mix of long grain rice , delicately flavoured with authentic herbs, spices and saffron.",Non Veg,[],4.8
+Double Chicken Dum Hyderabadi Biryani,399,"[Serves with Extra masala and Raita] signature Chicken Biryani with tastefully marinated and succulent pieces of chicken cooked in a rich mix of long grain rice , delicately flavoured with authentic herbs, spices and saffron.",Non Veg,[],4.5
+Chicken Dum Hyderabadi Boneless Biryani,269,[Serves with Raita] A unique take on the classic Chicken Boneless Biryani.,Veg,['Best Seller'],4.9
+Double Chicken Dum Hyderabadi Boneless Biryani,409,[Serves with Raita]A unique take on the classic Chicken Boneless Biryani.,Non Veg,[],4.5
+Bangalore Chicken Kebab Biryani (bone),269,[Serves with Raita] Bangalore style chicken kebab biryani.,Non Veg,[],4.4
+Special Chicken Hyderabadi Boneless Biryani,269,[Serves with Raita] A unique take on the classic Chicken Biryani.,Non Veg,[],4.7
+Chicken 65 Hyderabadi Biryani,269,[Serves with Raita] Classic fusion of our lipsmacking chicken 65 and famous Hyderabadi Biryani.,Veg,['Best Seller'],4.7
+Butter Chicken Boneless Hyderabadi Biryani,269,[Serves with Raita] Classic fusion of our lipsmacking Pepper Chicken and famous Hyderabadi Biryani Rice.,Non Veg,[],4.8
+Pepper Chicken Hyderabadi Biryani,269,"[Serves with Extra masala and Raita] signature Chicken Biryani with tastefully marinated and succulent pieces of chicken cooked in a rich mix of long grain rice , delicately flavoured with authentic herbs, spices and saffron.",Non Veg,[],4.4
+Chicken Dum Hyderabadi Biryani (extra Masala),279,"[Serves with Raita] A Hyderabadi dish made with fragrant minced lamb first cooked in aromatic spices, and then cooked once more in scented basmati rice.",Non Veg,[],4.7
+Keema Hyderabadi Biryani,289,[Serves with Raita] Tenderly cooked pieces of mutton mixed with fragrant rice and tangy herbs to give you an absolutely spicy delight.,Non Veg,[],4.3
+Mutton Dum Hyderabadi Biryani,369,[Serves with Extra Masala and Raita] Tenderly cooked pieces of mutton mixed with fragrant rice and tangy herbs to give you an absolutely spicy delight.,Non Veg,[],4.5
+Extra Masala Mutton Dum Hyderabadi Biryani,469,[Serves with Extra Masala and Raita] Tenderly cooked pieces of mutton mixed with fragrant rice and tangy herbs to give you an absolutely spicy delight.,Veg,['Best Seller'],3.6
+Double Mutton Dum Hyderabadi Biryani,499,[Serves with Raita] Tenderly cooked boneless chunks of mutton mixed with fragrant rice and tangy herbs to give you an absolutely spicy delight.,Non Veg,[],3.4
+Mutton Dum Hyderabadi Boneless Biryani,369,[Serves with Raita] Tenderly cooked boneless chunks of mutton mixed with fragrant rice and tangy herbs to give you an absolutely spicy delight.,Non Veg,[],4.9
+Double Mutton Dum Hyderabadi Boneless Biryani,529,"[Serves with Raita] A layered, aromatic, culinary masterpiece created with slow-cooked on the bone chicken, basmati rice, saffron, warm spices and fresh mint.",Non Veg,[],4.7
+Andhra Chicken Biryani,269,[Serves with Raita] A unique take on the classic Andhra Chicken Boneless Biryani.,Non Veg,[],4.8
+Andhra Chicken Boneless Biryani,269,"[Serves with Raita] Biryani rice with chicken curry, marinated in spiced yoghurt, cooked with ghee, ginger, garlic and an assortment of traditional herbs.",Non Veg,[],4.7
+Andhra Biryani Rice With Chicken Curry,379,"[Serves with Raita] A rich variant of Andhra Biryani first served in Vijayawada, this flavoursome dish contains chunks of chicken which are first fried before being added to aromatic basmati rice.",Non Veg,[],4.3
+Andhra Chicken Fry Piece Biryani,269,[Serves with Raita] Tenderly cooked boneless chunks of mutton mixed with fragrant rice and tangy herbs to give you an absolutely spicy delight.,Non Veg,[],4.6
+Andhra Mutton Boneless Biryani,479,"[Serves with Raita] A rich variant of Andhra Biryani first served in Vijayawada, this flavoursome dish contains chunks of Mutton which are first fried before being added to aromatic basmati rice.",Non Veg,[],4.3
+Andhra Mutton Fry Piece Biryani,479,[Serves with Raita] Tenderly cooked boneless chunks of mutton mixed with fragrant rice and tangy herbs to give you an absolutely spicy delight.,Non Veg,[],3.8
+Mutton Dum Hyderabadi Biryani (extra Masala),459,[Serves with Raita] Lucknowi style chicken Biryani with a long grain rice.,Non Veg,[],4.1
+Lucknowi Chicken Biryani,269,[Serves with Raita] Kolkata style chicken Biryani with a long grain rice.,Non Veg,[],4.3
+Kolkata Chicken Biryani,269,"A handpicked selection of garden fresh vegetables, layered with aromatic saffron rice; delicately flavoured with herbs and blended spices cooked in earthern pot.",Non Veg,[],4.5
+Handi Veg Dum Hyderabadi Biryani,419,[Serves with Raita] Fragrant long grain Basmati rice steamed with delicately spiced cottage cheese and garnished with an assortment of herbs and spices.,Non Veg,[],4.5
+Handi Special Paneer Hyderabadi Biryani,479,"Bikkganes signature Chicken Biryani with tastefully marinated and succulent pieces of chicken cooked in a rich mix of long grain rice and dry fruits, delicately flavoured with authentic herbs, spices and saffron cooked in earthern pot.",Non Veg,[],4.3
+Handi Chicken Dum Hyderabadi Biryani,479,Kolkata style chicken Biryani with a long grain rice cooked in earthern pot.,Non Veg,[],4.5
+Handi Chicken Kolkata Biryani,469,Lucknowi style chicken Biryani with a long grain rice cooked in earthern pot.,Non Veg,[],4.5
