@@ -97,36 +97,7 @@ class RestaurantDataScraper:
 
 def main():
     restaurant_pairs = [
-        (
-            "https://www.zomato.com/lucknow/bikkgane-biryani-gomti-nagar", 
-            "https://www.swiggy.com/city/lucknow/bikkgane-biryani-vibhuti-khand-gomti-nagar-rest373841", 
-            "leEVAg", "dfwCXs", "fwzNdh", "ckqoPM", "cILgox"
-        ),
-        (
-            "https://www.zomato.com/lucknow/mashi-biryani-world-gomti-nagar", 
-            "https://www.swiggy.com/city/lucknow/mashi-biryani-world-gomti-nagar-rest94712", 
-            "leEVAg", "dfwCXs", "fwzNdh", "ckqoPM", "cILgox"
-        ),
-        (
-            "https://www.zomato.com/lucknow/mcdonalds-gomti-nagar", 
-            "https://www.swiggy.com/city/lucknow/mcdonalds-fun-republic-mall-gomti-nagar-rest253774", 
-            "leEVAg", "dfwCXs", "fwzNdh", "ckqoPM", "cILgox"
-        ),
-        (
-            "https://www.zomato.com/lucknow/belgium-waffle-chowk", 
-            "https://www.swiggy.com/city/lucknow/the-belgian-waffle-co-chowk-victoria-street-rest786541", 
-            "leEVAg", "dfwCXs", "fwzNdh", "ckqoPM", "cILgox"
-        ),
-        (
-            "https://www.zomato.com/lucknow/dominos-pizza-8-gomti-nagar", 
-            "https://www.swiggy.com/city/lucknow/dominos-pizza-vibhuti-khand-gomti-nagar-rest617595", 
-            "leEVAg", "dfwCXs", "fwzNdh", "ckqoPM", "cILgox"
-        ),
-        (
-            "https://www.zomato.com/lucknow/barkaas-indo-arabic-restaurant-gomti-nagar", 
-            "https://www.swiggy.com/city/lucknow/barkaas-indo-arabic-restaurant-devpur-gomti-nagar-rest820142", 
-            "leEVAg", "dfwCXs", "fwzNdh", "ckqoPM", "cILgox"
-        ),
+        (),
         # Add more pairs as needed
     ]
 
