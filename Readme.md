@@ -6,9 +6,9 @@
 This project is an end-to-end Generative AI solution that combines web scraping of restaurant data with a Retrieval-Augmented Generation (RAG) chatbot. It aims to enhance user experience by allowing customers to ask natural language questions about restaurants (e.g., menu details, dietary options, price ranges) and receive accurate, contextual answers based on up-to-date information.
 ## Results
 ![Res1](./result/Res1.png)
-![Res2](./result/Res2.png)
 ![Res3](./result/Res3.png)
 ![Res4](./result/Res4.png)
+![Res5](./result/Res5.png)
 ## Video
 [Video Link for Demo video](https://youtu.be/O7A0IamI64k)
 ## Web Scraping Process
