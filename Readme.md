@@ -4,7 +4,13 @@
 
 ## Introduction
 This project is an end-to-end Generative AI solution that combines web scraping of restaurant data with a Retrieval-Augmented Generation (RAG) chatbot. It aims to enhance user experience by allowing customers to ask natural language questions about restaurants (e.g., menu details, dietary options, price ranges) and receive accurate, contextual answers based on up-to-date information.
-[DemoVideo](./result/ui.png)(https://youtu.be/O7A0IamI64k)
+## Results
+![Res1](./result/Res1.png)
+![Res2](./result/Res2.png)
+![Res3](./result/Res3.png)
+![Res4](./result/Res4.png)
+## Video
+[Video Link for Demo video](https://youtu.be/O7A0IamI64k)
 ## Web Scraping Process
 
 ### 1. Overview
@@ -395,9 +401,3 @@ The Foodie Bot’s user interface is built with Streamlit, providing a simple ch
 - A browser window will open at http://localhost:8501/.
 
 - Type your food-related questions into the chat box and enjoy!
-
-## Results
-![Res1](./result/Res1.png)
-![Res2](./result/Res2.png)
-![Res3](./result/Res3.png)
-![Res4](./result/Res4.png)
