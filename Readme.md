@@ -11,7 +11,7 @@ This project is an end-to-end Generative AI solution that combines web scraping 
 
 The scraper component is responsible for systematically extracting up-to-date restaurant information and menu details from target websites. It navigates through each restaurant page to capture key attributes—such as name, location, contact information, operating hours, ratings—and iterates through all available menu items to record dish names, prices, descriptions, dietary labels, and special features. After gathering raw data, it applies cleaning and validation rules to ensure consistency and accuracy, then outputs a structured JSON file that downstream services (e.g., embedding generators, vector stores) can consume directly.
 
-### 2. Restaurant Selection Process
+### 2. Restaurant Inclusion Criteria
 To ensure meaningful and diverse data for the Generative AI system, a careful restaurant selection strategy was followed. The goal was to collect data across various categories, cuisines, and service types.
 
 **Selection Criteria**:
@@ -35,7 +35,7 @@ To ensure meaningful and diverse data for the Generative AI system, a careful re
 - Domino's Pizza
 - La Pino'z Pizza 
 
-### 3. Data Collection Scope
+### 3. Targeted Data Elements
 
 The data collection for this project focuses on gathering detailed information about restaurants, their menus, and customer engagement. The following data points are collected for each restaurant:
 
@@ -61,7 +61,7 @@ The data collection for this project focuses on gathering detailed information a
    - The restaurant information is stored in **CSV** format, while menu data is saved in separate CSV files for each restaurant.
    - The final collection is exported to **JSON** format for easy integration and analysis.
 
-### 4.  Pseudocode for Restaurant Data Scraping
+### 4.  Scraper Logic Outline
 ``` Initialize Scraper Class
 - Define method to clean restaurant name.
 - Define method to clean opening hours.
@@ -79,9 +79,9 @@ Main Function
     - Save restaurant info and menu data into a CSV file.
 - Save a summary of all restaurant data into a master CSV file (`restaurants_info.csv`).
 ```
-### 5. Flowchart
+### 5. Workflow Diagram
 ![Scraper](./IMAGES/Scrapper.drawio.png)
-### 6. Tools and Technologies
+### 6. Technology Stack
 
 1. **Selenium**: Used for web automation and scraping dynamic content from restaurant websites by simulating browser actions.
 
@@ -93,24 +93,24 @@ Main Function
 
 5. **JSON**: Format used for converting and storing the extracted data in a structured manner after the CSV conversion.
 
-### 7. Assumptions and Limitations:
+### 7. Constraints & Preconditions
 - Data is publicly available and website structure remains consistent.
 - Internet connection and Chrome WebDriver are properly configured.
 - Scraping may fail if websites change structure or use anti-scraping measures.
 - Incomplete data may be extracted due to missing or inconsistent information.
 
 
-### 8. Challenges Faced:
+### 8. Key Obstacles
 - Handling dynamic content loaded through JavaScript on websites.
 - Managing inconsistent data formats across different restaurant listings.
 - Dealing with anti-scraping measures such as CAPTCHAs or bot detection.
 - Ensuring accurate data extraction when website structures change.
 
 
-### 9. Conclusion:
+### 9. Summary
 The Restaurant Data Scraper and RAG-based Chatbot is a comprehensive solution that effectively enhances user experience by answering specific queries related to restaurant details. By leveraging web scraping for data collection and utilizing the RAG architecture for response generation, the solution efficiently provides accurate, contextual, and up-to-date information to users.
 
-### 10. Next Steps:
+### 10. Future Enhancements
 1. **Optimize the Scraper:** Improve the efficiency of the web scraper to handle more websites and scale the data collection process.
 2. **Enhance RAG Performance:** Fine-tune the retrieval and generation components for faster and more accurate responses.
 3. **Expand Chatbot Features:** Add support for more complex user queries and integrate advanced NLP techniques for better handling of ambiguous queries.
@@ -118,7 +118,7 @@ The Restaurant Data Scraper and RAG-based Chatbot is a comprehensive solution th
 
 ## Knowledge Base Creation
 
-### 1. Text Chunking and Embeddings
+### 1. Chunking Text
 
 ### Overview:
 Text chunking involves breaking down large text into smaller, contextually meaningful segments. This helps improve data processing and retrieval efficiency.
@@ -139,7 +139,7 @@ For the menu item "Vegetarian Burger - A delicious patty made of fresh vegetable
 - **Contextual Accuracy**: Ensures relevant, meaningful responses.
 
 
-### 2. Storing Data in ChromaDB
+### 2. Saving Embeddings
 
 ChromaDB is a vector database designed for efficient semantic search. It stores embeddings generated from text chunks, enabling fast and relevant information retrieval based on cosine similarity. This allows the system to answer user queries with the most contextually accurate data.
 
@@ -163,7 +163,7 @@ ChromaDB is a vector database designed for efficient semantic search. It stores 
   - Metadata such as restaurant name, item type (e.g., vegetarian), and prices are linked to each embedding.
   - This metadata enables the system to provide contextually accurate and specific responses.
 
-### 3. Semantic Search with ChromaDB
+### 3. Running Semantic Search with ChromaDB
 
 Semantic search improves query accuracy by comparing the meaning, not just keywords. Using the `sentence-transformers/all-MiniLM-L6-v2` model, textual data is converted into embeddings, capturing the semantic context.
 
@@ -206,7 +206,7 @@ Semantic search improves query accuracy by comparing the meaning, not just keywo
 7. Return results:
    - Return the relevant documents and metadata as the response
 ```
-### 5. Flowchart
+### 5. Workflow Diagram
 ![Knowledge Base](./IMAGES/Knowledge.drawio.png)
 
 ## RAG Workflow Documentation
@@ -214,7 +214,7 @@ Semantic search improves query accuracy by comparing the meaning, not just keywo
 The **Retrieval-Augmented Generation (RAG)** workflow enhances our chatbot’s responses by retrieving relevant information from a precomputed vector database.
 
 
-### 1. Converting Text into Embeddings
+### 1. Embedding Generation
 
 **Purpose**  
 Transform both user queries and restaurant/menu data into fixed-length numerical vectors called embeddings that capture semantic meaning beyond simple keyword matching.
@@ -229,7 +229,7 @@ Transform both user queries and restaurant/menu data into fixed-length numerical
 3. Store menu embeddings along with associated metadata (restaurant name, dish name, price, description, dietary tags, etc.) in a persistent vector database.
 
 
-### 2. Searching for Semantically Similar Vectors in the Vector Database
+### 2. Contextual Retrieval
 
 **Purpose**  
 Given a new user query, identify the most relevant restaurant/menu entries by measuring embedding similarity, then use that context to ground the bot’s response.
@@ -255,7 +255,7 @@ Given a new user query, identify the most relevant restaurant/menu entries by me
    - Provide the retrieved context to the
 
 
-### 3. Algorithm
+### 3. Technical Implementation
 1. Indexing & Embedding Preparation
 
 ```
@@ -330,10 +330,10 @@ function handle_user_query(user_query):
     return assistant_reply
 ```
 
-### 4. Flowchart
+### 4. Workflow Diagram
 ![RAG](./IMAGES/RAG.drawio.png)
 
-### 5. Conclusion
+### 5. Summary
 
 The RAG workflow enables our Foodie Bot to deliver responses that are both conversational and deeply grounded in real restaurant data. By converting text into dense embeddings and performing efficient similarity searches in a vector database, we ensure:
 
@@ -395,3 +395,9 @@ The Foodie Bot’s user interface is built with Streamlit, providing a simple ch
 - A browser window will open at http://localhost:8501/.
 
 - Type your food-related questions into the chat box and enjoy!
+
+## Results
+![Res1](./result/res1.png)
+![Res2](./result/res2.png)
+![Res3](./result/res3.png)
+![Res4](./result/res4.png)
