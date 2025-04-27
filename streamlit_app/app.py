@@ -3,7 +3,7 @@ from src.helper import ZomatoBot
 from src.prompt import PROMPT
 
 class FoodieApp:
-    def __init__(self):
+    def _init_(self):
         self.bot = ZomatoBot()
         self.SYSTEM_INITIAL = PROMPT
         if "strorage" not in st.session_state:
@@ -11,7 +11,7 @@ class FoodieApp:
 
     def run(self):
         st.set_page_config(page_title="Foodie Bot", page_icon="🍔", layout="wide")
-        st.markdown("<h1 style='text-align: center; color: #ff4b4b;' Welcome to Foodie Bot</h1>", unsafe_allow_html=True)
+        st.markdown("<h1 style='text-align: center; color: #2D6BF7;'> Welcome to Foodie Bot</h1>", unsafe_allow_html=True)
         st.markdown("<p style='text-align: center; color: gray;'>Ask me anything about restaurants, dishes, prices, or recommendations!</p>", unsafe_allow_html=True)
         
 
@@ -49,9 +49,31 @@ class FoodieApp:
 
         for msg in st.session_state.strorage:
             if msg["role"] == "user":
-                st.chat_message("user").write(msg["content"])
+                st.markdown(
+                    f"""
+                    <div style='display: flex; justify-content: flex-end; margin-bottom: 10px;'>
+                        <div style='background-color: #E7EEF9; padding: 10px; border-radius: 10px; max-width: 70%;'>
+                            {msg['content']}
+                        </div>
+                    </div>
+                    """,
+                    unsafe_allow_html=True
+                )
+                #st.markdown(f"<div style='background-color:#E7EEF9;padding:10px;border-radius:10px;margin-bottom:10px;max-width:70%;'>{msg['content']}</div>", unsafe_allow_html=True)
+                #st.chat_message("user").write(msg["content"])
             elif msg["role"] == "assistant":
-                st.chat_message("assistant").write(msg["content"])
+                st.markdown(
+                    f"""
+                    <div style='display: flex; justify-content: flex-start; margin-bottom: 10px;'>
+                        <div style='background-color: #F1F0F0; padding: 10px; border-radius: 10px; max-width: 70%;'>
+                            {msg['content']}
+                        </div>
+                    </div>
+                    """,
+                    unsafe_allow_html=True
+                )
+                #st.markdown(f"<div style='background-color:#F1F0F0;padding:10px;border-radius:10px;margin-bottom:10px;max-width:70%;'>{msg['content']}</div>", unsafe_allow_html=True)
+                #st.chat_message("assistant").write(msg["content"])
 
 if __name__ == "__main__":
     app = FoodieApp()
